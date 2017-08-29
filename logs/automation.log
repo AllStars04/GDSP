@@ -1,0 +1,92 @@
+2017-08-24 11:41:16,462 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-24 11:41:17,655 - login - WARNING - Login not complete
+2017-08-24 11:41:22,292 - login - INFO - Logged in with user: Home screen is visible
+2017-08-24 11:42:12,290 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-24 11:42:13,418 - login - WARNING - Login not complete
+2017-08-24 11:42:19,608 - login - INFO - Logged in with user: Home screen is visible
+2017-08-24 11:43:51,577 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-24 11:43:52,954 - login - WARNING - Login not complete
+2017-08-24 11:43:55,904 - login - INFO - Logged in with user: Home screen is visible
+2017-08-24 11:48:30,101 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-24 11:48:31,635 - login - WARNING - Login not complete
+2017-08-24 11:48:39,056 - login - INFO - Logged in with user: Home screen is visible
+2017-08-24 11:48:40,068 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-08-24 11:48:41,152 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-24 11:48:41,168 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-24 11:48:43,227 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-24 11:48:43,274 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-24 11:48:43,290 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-24 11:48:43,306 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-08-24 11:48:43,306 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-08-24 11:48:43,509 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-08-24 11:48:43,588 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-08-24 11:48:44,639 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-24 11:48:44,654 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-24 11:48:46,730 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-24 11:48:46,777 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-24 11:48:46,793 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-24 11:48:46,793 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-08-24 11:48:46,808 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-08-24 11:48:46,933 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-08-24 12:00:58,865 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-24 12:00:59,988 - login - WARNING - Login not complete
+2017-08-24 12:01:05,264 - login - INFO - Logged in with user: Home screen is visible
+2017-08-24 12:01:06,276 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-08-24 12:01:07,369 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-24 12:01:07,384 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-24 12:01:09,459 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-24 12:01:09,490 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-24 12:01:09,490 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-24 12:01:09,506 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-08-24 12:01:09,506 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-08-24 12:01:09,693 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-08-24 12:01:09,742 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-08-24 12:01:10,805 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-24 12:01:10,820 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-24 12:01:12,894 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-24 12:01:12,941 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-24 12:01:12,956 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-24 12:01:12,972 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-08-24 12:01:12,972 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-08-24 12:01:13,238 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-08-24 12:01:13,322 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-08-24 12:01:14,367 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-24 12:01:14,367 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-24 12:01:16,414 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-24 12:01:16,441 - verifyTextOnScreen - ERROR - Text Search not present in web page
+2017-08-25 09:22:47,635 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-25 09:22:49,990 - login - WARNING - Login not complete
+2017-08-25 09:22:57,539 - login - INFO - Logged in with user: Home screen is visible
+2017-08-25 09:22:58,546 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-08-25 09:22:59,629 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-25 09:22:59,645 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-25 09:23:01,719 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-25 09:23:01,750 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-25 09:23:01,782 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-25 09:23:01,782 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-08-25 09:23:01,797 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-08-25 09:23:01,982 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-08-25 09:23:02,032 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-08-25 09:23:03,099 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-25 09:23:03,115 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-25 09:23:05,170 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-25 09:23:05,186 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-25 09:23:05,201 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-25 09:23:05,201 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-08-25 09:23:05,217 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-08-25 09:23:05,323 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-08-25 09:23:05,393 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-08-25 09:23:06,440 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-25 09:23:06,456 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-25 09:23:08,585 - gotocorrectframe - DEBUG - Switching to frame : afr::PushIframe
+2017-08-25 09:23:08,634 - verifyTextOnScreen - ERROR - Text Search not present in web page
+2017-08-25 09:28:47,254 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-25 09:29:34,338 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-25 09:29:41,461 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-29 11:44:43,488 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-29 11:44:45,613 - login - WARNING - Login not complete
+2017-08-29 11:44:48,054 - login - WARNING - Login not complete
+2017-08-29 11:44:50,076 - login - WARNING - Login not complete
+2017-08-29 11:44:52,094 - login - WARNING - Login not complete
+2017-08-29 11:44:54,111 - login - WARNING - Login not complete
+2017-08-29 11:44:58,855 - login - WARNING - Login not complete

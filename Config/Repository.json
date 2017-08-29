@@ -1,0 +1,11 @@
+{
+    "text": {
+       "MSISDN": {
+          "locator": "name",
+          "locatorvalue": "condition.msisdn"
+        }
+      }
+
+  }
+
+

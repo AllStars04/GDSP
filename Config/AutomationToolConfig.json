@@ -1,0 +1,53 @@
+{
+  "tool": {
+    "browserType": "chrome",
+    "timeout": 30,
+    "loglevel": "DEBUG",
+    "configfile":"json"
+  },
+  "sut":{
+  "url": "https://m2mportal-stage.vodafone.com/m2mscp/"
+  },
+  "Login": {
+    "Username":"aditya.kumar@aricent.com",
+    "Password":"Portal1*"
+  },
+
+  "button":{
+    "locator":"tag_name",
+    "locatorvalue":"div"
+  },
+  "menu":{
+    "locator":"tag_name",
+    "locatorvalue":"a"
+  },
+  "submenu": {
+    "locator": "tag_name",
+    "locatorvalue": "a"
+  },
+  "text": {
+    "locator": "class_name",
+    "locatorvalue": "bc_field_label"
+  },
+  "dropdown": {
+    "locator": "tag_name",
+    "locatorvalue": "option"
+  },
+  "link": {
+    "locator": "tag_name",
+    "locatorvalue": "a"
+  },
+  "image": {
+    "locator": "tag_name",
+    "locatorvalue": "img"
+  },
+  "textarea": {
+    "locator": "tag_name",
+    "locatorvalue": "textarea"
+  },
+  "radiobutton":{
+    "locator": "class_name",
+    "locatorvalue":"bc_checkradio_item"
+  }
+
+}
