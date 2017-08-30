@@ -90,3 +90,27 @@
 2017-08-29 11:44:52,094 - login - WARNING - Login not complete
 2017-08-29 11:44:54,111 - login - WARNING - Login not complete
 2017-08-29 11:44:58,855 - login - WARNING - Login not complete
+2017-08-29 12:12:31,557 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-29 12:12:33,417 - login - WARNING - Login not complete
+2017-08-29 12:12:38,491 - login - INFO - Logged in with user: Home screen is visible
+2017-08-29 12:12:39,502 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-08-29 12:12:40,592 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-29 12:12:40,593 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-29 12:12:42,608 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-29 12:12:42,624 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-29 12:12:42,639 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-08-29 12:12:42,639 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-08-29 12:12:42,839 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-08-29 12:12:42,885 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-08-29 12:12:43,926 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-29 12:12:43,941 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-29 12:12:45,954 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-29 12:12:45,969 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-29 12:12:45,985 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-08-29 12:12:45,985 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-08-29 12:12:46,107 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-08-29 12:12:46,163 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-08-29 12:12:47,224 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-29 12:12:47,224 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-29 12:12:49,347 - verifyTextOnScreen - DEBUG - Text present in web page
+2017-08-29 14:29:21,215 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/

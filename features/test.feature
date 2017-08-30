@@ -9,3 +9,4 @@ Feature: test
     when click on menu "Devices"
     then click on submenu "All devices"
     when text "Search" is visible
+    ####Saurabh
