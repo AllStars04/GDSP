@@ -14,8 +14,8 @@
   },
 
   "button":{
-    "locator":"tag_name",
-    "locatorvalue":"div"
+    "locator":"css",
+    "locatorvalue":"span"
   },
   "menu":{
     "locator":"tag_name",
@@ -31,7 +31,7 @@
   },
   "dropdown": {
     "locator": "tag_name",
-    "locatorvalue": "option"
+    "locatorvalue": "span"
   },
   "link": {
     "locator": "tag_name",
@@ -48,6 +48,10 @@
   "radiobutton":{
     "locator": "class_name",
     "locatorvalue":"bc_checkradio_item"
+  },
+  "statictext":{
+    "locator": "tag_name",
+    "locatorvalue":"div"
   }
 
 }

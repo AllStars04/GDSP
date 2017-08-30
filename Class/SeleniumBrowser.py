@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import _multiprocessing
+import psutil
 
 from selenium.common.exceptions import TimeoutException
 import Module.Utility
@@ -105,3 +106,15 @@ class SeleniumBrowser:
 
             count = count + 1
             time.sleep(2)
+
+    def logout(self):
+        self.driver.find_element_by_id("__ns1790630358_logoutLnk").click()
+        self.driver.close()
+        #self.killProcessFromTaskManager("chrome.exe")
+        #self.killProcessFromTaskManager("chromedriver.exe")
+
+    def killProcessFromTaskManager(self,processName):
+        for proc in psutil.process_iter():
+            # check whether the process name matches
+            if proc.name() == processName:
+                proc.kill()

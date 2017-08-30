@@ -35,33 +35,27 @@ import Module.Utility
 #
 # print(idtype)
 # print(idvalue)
-def test():
-    obj = Class.Automation.Automation()
-    obj.openURL()
-    obj.enterText("UserName","Lavanya")
-
-
-test()
-
-def test1():
-    obj = Class.Automation.Automation()
-    obj.openURL()
-    obj.login()
-    #obj.fnClickOnCertificateIfExist()
-    obj.clickOnMenu("Search")
-    obj.clickOnSubmeu("Service Provider")
-    obj.clickOnLink("Initiate Transaction")
-    obj.selectDropDownOption("Transaction Type","Journal Entry Transaction")
-    obj.selectDropDownOption("Reason Type", "Journal Entry")
-    obj.selectRadioButton("USD")
-
-#test1()
-
-# class TestClass:
-#     def test_one(self):
-#         x = "this"
-#         assert 'h' in x
+# def test():
+#     obj = Class.Automation.Automation()
+#     obj.openURL()
+#     obj.login()
+#     obj.clickOnLink("PPVGE as Operator Administrator")
+#     obj.clickOnLink("Platform as Platform Support & IITC")
+#     obj.clickOnLink("Tools")
+#     obj.clickOnLink("All tasks")
+#     obj.verifyTextOnScreen("Tasks")
+#     obj.clickOnButton("Create task")
+#     obj.verifyTextOnScreen("Task detail")
+#     obj.enterTextArea("Description", "Test Task")
+#     obj.clickOnButton("Create")
+#     obj.verifyTextOnScreen("The task was successfully created!")
+#     obj.clickOnLink("See task detail")
+#     obj.verifyTextOnScreen("Details")
+#     obj.logout()
+#     print("Success")
 #
-#     def test_two(self):
-#         x = "hello"
-#         assert hasattr(x, 'check')
+#
+#
+# test()
+
+

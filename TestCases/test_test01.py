@@ -1,4 +1,4 @@
-import pytest
+import Class.Automation
 # import Class.Automation
 # import Module.Utility
 #
@@ -20,8 +20,20 @@ import pytest
 # obj.clickOnButton("Verify")
 # obj.verifyTextOnScreen("Customer Info")
 
-def func(x):
-    return x + 1
+def test2():
+    obj = Class.Automation.Automation()
+    obj.openURL()
+    obj.login()
+    obj.clickOnLink("PPVGE as Operator Administrator")
+    obj.clickOnLink("Platform as Platform Support & IITC")
+    obj.verifyTextOnScreen("Platform as Platform Support & IITC")
+    print("Operator Role is Changed")
+    obj.logout()
+    obj.openURL()
+    obj.login()
+    obj.verifyTextOnScreen("PPVGE as Operator Administrator")
+    print("SUCCESS : Operator is still logged in with Primary Login Role")
+    obj.logout()
 
-def test_answer():
-    assert func(4) == 5
+test2()
+

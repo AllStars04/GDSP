@@ -1,15 +1,26 @@
 import sys
 import Module.Algorithms
 import Module.Utility
+import Module.logger
 
-def verifyTextOnScreen(self,textName):
-
+def verifyTextOnScreen(driverObject,textName):
+    success = 0;
     if textName == None:
         Module.logger.ERROR("Text to search not provided")
-    else:
-        if self.driver.page_source.__contains__(textName):
-            Module.logger.DEBUG("Text present in web page")
+    obj = Module.getObject.getObjByRepo(driverObject, "statictext", textName)
+    if obj != None:
+     for divObj in obj:
+         if divObj.text == textName:
+            Module.logger.INFO("Static Text Found : "+  textName)
+            success = 1
+            break
+    if success == 0:
+        obj = Module.getObject.getObjByAlgo(driverObject,"statictext",textName)
+        if obj != None:
+            Module.logger.INFO("Static Text Found : " + textName)
+            success = 1
         else:
-            Module.logger.ERROR("Text "+textName+" not present in web page")
+            Module.logger.ERROR("Text Not found : "+textName)
+
 
 
