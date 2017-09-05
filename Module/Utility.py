@@ -42,7 +42,7 @@ def ReadDataFromRepo(type, name, value):
 def fnReadDataFromExcel(strExcelName,strSheetName,strUniqueColNames, strUniqueColValues, strValue):
         cwd = os.getcwd()
         pcwd = "\\".join(cwd.split('\\')[:-1])
-        confdir = pcwd + "\\Config"
+        confdir = cwd + "\\Config"
         wb = openpyxl.load_workbook(confdir+"\\" + strExcelName)
         sheet = wb.get_sheet_by_name(strSheetName)
         maxrows = sheet.max_row

@@ -16,7 +16,7 @@ def clickOnLink(driverObject,lnkName):
          if lnkObj.text == lnkName:
             try:
                 lnkObj.click()
-                print("Object Found From Repo")
+                Module.logger.INFO("Link " + lnkName + " is selected")
                 success = 1
                 break
             except:
@@ -26,7 +26,7 @@ def clickOnLink(driverObject,lnkName):
         if obj != None:
             try:
                 obj.click()
-                print("Object Found By Dynamic Algo")
+                Module.logger.INFO("Link " + lnkName + " is selected")
             except:
                 Module.logger.ERROR("Link " + lnkName + "is not clickable")
         else:

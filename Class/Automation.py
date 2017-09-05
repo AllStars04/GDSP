@@ -1,3 +1,4 @@
+import selenium
 import Class.SeleniumBrowser
 import Module.logger
 #import Module.Reports
@@ -10,6 +11,8 @@ import Commands.verifyTextOnScreen
 import Commands.clickOnLink
 import Commands.clickOnImage
 import Commands.selectRadioButton
+import Commands.verifyTableColumnHeaders
+import time
 
 
 class Automation:
@@ -68,7 +71,11 @@ class Automation:
         Module.logger.INFO("Verifying if text: "+textName+ " is present on page")
         self.textName = textName
         self.performPreChecks()
-        Commands.verifyTextOnScreen.verifyTextOnScreen(self.driver, textName)
+        try:
+            Commands.verifyTextOnScreen.verifyTextOnScreen(self.driver, textName)
+        except selenium.common.exceptions.StaleElementReferenceException:
+            time.sleep(5)
+            Commands.verifyTextOnScreen.verifyTextOnScreen(self.driver, textName)
 
     def clickOnLink(self,lnkName):
         Module.logger.INFO("Clicking on link: " + lnkName)
@@ -88,10 +95,47 @@ class Automation:
         self.performPreChecks()
         Commands.selectRadioButton.selectRadioButton(self.driver, radbtnName)
 
+    def clickOnInput(self,inputName):
+        Module.logger.INFO("Clicking on menu: "+inputName)
+        #Module.Reports.allure_test()
+        self.inputName = inputName
+        self.performPreChecks()
+        Commands.clickOnInput.clickOnInput(self.driver,inputName)
 
+    def selectFromList(self,optionName):
+        Module.logger.INFO("selecting option: "+optionName)
+        #Module.Reports.allure_test()
+        self.optionName = optionName
+        self.performPreChecks()
+        Commands.selectFromList.selectFromList(self.driver,optionName)
 
+    def clickOnList(self,optionName):
+        Module.logger.INFO("selecting option: "+optionName)
+        #Module.Reports.allure_test()
+        self.optionName = optionName
+        self.performPreChecks()
+        Commands.clickOnList.clickOnList(self.driver,optionName)
+    def logout(self):
+        self.driver.logout()
 
+    def verifyTableColumnHeaders(self,tableName,ColNamesList):
+        Module.logger.INFO("Getting Table Headers: ")
+        self.tableName = tableName
+        self.ColNamesList = ColNamesList
+        self.performPreChecks()
+        Commands.verifyTableColumnHeaders.verifyTableColumnHeaders(self.driver, tableName, ColNamesList)
 
+    def getValueFromLabel(self,lblName):
+        self.lblName = lblName
+        self.performPreChecks()
+        label_value = self.driver.getValueFromLabel(lblName)
+        return label_value
+
+    def addValueToDic(self, key, valueToAdd):
+        self.driver.addValueToDic(key,valueToAdd)
+
+    def compareTwoValues(self, value1, value2, operation):
+        self.driver.compareTwoValues(value1, value2, operation)
 
 
 

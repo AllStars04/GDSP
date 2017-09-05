@@ -14,8 +14,8 @@
   },
 
   "button":{
-    "locator":"css",
-    "locatorvalue":"span"
+    "locator":"class_name",
+    "locatorvalue":"button"
   },
   "menu":{
     "locator":"tag_name",
@@ -26,12 +26,12 @@
     "locatorvalue": "a"
   },
   "text": {
-    "locator": "class_name",
-    "locatorvalue": "bc_field_label"
+    "locator": "tag_name",
+    "locatorvalue": "label"
   },
   "dropdown": {
     "locator": "tag_name",
-    "locatorvalue": "span"
+    "locatorvalue": "li"
   },
   "link": {
     "locator": "tag_name",
@@ -52,6 +52,13 @@
   "statictext":{
     "locator": "tag_name",
     "locatorvalue":"div"
+  },
+  "input":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
+  },
+  "list":{
+    "locator": "tag_name",
+    "locatorvalue":"li"
   }
-
 }

@@ -54,7 +54,7 @@ def find_auto_element(self,locator,locatorvalue,value):
 
     if all_obj != None and locatorvalue != "img":
         for obj in all_obj:
-            if obj.text == value:
+            if value in obj.text:
                 Module.logger.DEBUG("During search we found the object with attribute text: " + obj.text)
                 found = "true"
             if found == "true":

@@ -10,6 +10,7 @@ import Module.Utility
 import datetime
 import time
 import Module.logger
+import getpass
 
 
 class SeleniumBrowser:
@@ -20,6 +21,7 @@ class SeleniumBrowser:
         options.add_argument("user-data-dir=C:/users/saurabh/AppData/Local/Google/Chrome/User Data/Default")
         self.driver = webdriver.Chrome(chrome_options=options)
         self.get_input_type = Module.Utility.ReadDataFromJsonFile("tool", "configfile")
+        self.dic = {}
 
     def __call__(self, *args, **kwargs):
         return self.driver
@@ -107,6 +109,18 @@ class SeleniumBrowser:
             count = count + 1
             time.sleep(2)
 
+    def getValueFromLabel(self,lblName):
+        obj = self.driver.find_elements_by_tag_name("label")
+        if obj!= None:
+            for lblObj in obj:
+                if lblObj.text == lblName:
+                    span_obj = lblObj.find_elements_by_xpath("following::span")
+                    Module.logger.INFO("The Value got from Label Name "+lblName+ " is :"+str(span_obj[0].text))
+                    return span_obj[0].text
+        else:
+            Module.logger.ERROR("No Object Found for the Label "+ lblName)
+
+
     def logout(self):
         self.driver.find_element_by_id("__ns1790630358_logoutLnk").click()
         self.driver.close()
@@ -118,3 +132,13 @@ class SeleniumBrowser:
             # check whether the process name matches
             if proc.name() == processName:
                 proc.kill()
+
+    def addValueToDic(self,valuetoStore,valueToAdd):
+        self.dic.update({valuetoStore:valueToAdd})
+
+    def compareTwoValues(self, value1, value2, operation):
+        if operation.lower() == "equal":
+            if self.dic.get(value1) == self.dic.get(value2):
+               Module.logger.INFO("Both Values Match!!")
+            else:
+                Module.logger.ERROR("Values Dont Match!!")

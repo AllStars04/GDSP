@@ -1,7 +1,7 @@
 Feature: Tasks Management
 
-  @t1
-  Scenario: testcase
+  @TC_OpGrpCanCreateTask
+  Scenario: Operator Group Create task
 
         given start test case
         given open browser

@@ -16,7 +16,7 @@ def clickOnImage(driverObject,imgName):
          if imgName in ImgObj.get_attribute("src"):
             try:
                 imgName.click()
-                print("Object Found From Repo")
+                Module.logger.Info("Image " + imgName + " is selected")
                 success = 1
                 break
             except:
@@ -26,7 +26,7 @@ def clickOnImage(driverObject,imgName):
         if obj != None:
             try:
                 obj.click()
-                print("Object Found By Dynamic Algo")
+                Module.logger.Info("Image " + imgName + " is selected")
             except:
                 Module.logger.ERROR("Image " + imgName + "is not clickable")
         else:

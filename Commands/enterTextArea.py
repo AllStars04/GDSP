@@ -11,9 +11,10 @@ def enterTextArea(driverObject,textAreaName,textAreaValue):
     obj = Module.getObject.getObjByRepo(driverObject,"textarea",textAreaName)
     if obj != None:
         try:
-            Module.logger.DEBUG("Finding Element based on given parameters")
+            Module.logger.INFO("Finding Element based on given parameters")
             obj.clear()
             obj.send_keys(textAreaValue)
+            Module.logger.INFO("Text Area " + textAreaName + "  is entered with text : "+textAreaValue)
             success = 1
         except:
             Module.logger.ERROR("Exception in entering value in text area using given locator and locator value")
@@ -26,6 +27,7 @@ def enterTextArea(driverObject,textAreaName,textAreaValue):
                 try:
                     next_obj.clear()
                     next_obj.send_keys(textAreaValue)
+                    Module.logger.INFO("Text Area " + textAreaName + "  is entered with text : " + textAreaValue)
                 except:
                     Module.logger.ERROR("Can't enter value for "+textAreaName)
             except:

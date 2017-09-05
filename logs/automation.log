@@ -114,3 +114,1756 @@
 2017-08-29 12:12:47,224 - ifpageloaded - DEBUG - Page loading is complete
 2017-08-29 12:12:49,347 - verifyTextOnScreen - DEBUG - Text present in web page
 2017-08-29 14:29:21,215 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-30 15:52:14,871 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-30 15:52:16,462 - login - WARNING - Login not complete
+2017-08-30 15:52:22,408 - login - INFO - Logged in with user: Home screen is visible
+2017-08-30 15:52:23,412 - clickOnLink - INFO - Clicking on link: PPVGE as Operator Administrator
+2017-08-30 15:52:23,455 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-08-30 15:52:26,497 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:26,512 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:52:28,548 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-08-30 15:52:28,548 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: PPVGE as Operator Administrator
+2017-08-30 15:52:28,563 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: PPVGE as Operator Administrator
+2017-08-30 15:52:28,673 - find_auto_element - DEBUG - During search we found the object with attribute text: PPVGE as Operator Administrator
+2017-08-30 15:52:28,724 - clickOnLink - INFO - Clicking on link: Platform as Platform Support & IITC
+2017-08-30 15:52:29,799 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:29,815 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:52:31,829 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-08-30 15:52:31,845 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Platform as Platform Support & IITC
+2017-08-30 15:52:31,845 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Platform as Platform Support & IITC
+2017-08-30 15:52:32,048 - find_auto_element - DEBUG - During search we found the object with attribute text: Platform as Platform Support & IITC
+2017-08-30 15:52:32,093 - clickOnLink - INFO - Clicking on link: Tools
+2017-08-30 15:52:34,746 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-08-30 15:52:37,097 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-08-30 15:52:40,142 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:40,158 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:52:42,162 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-08-30 15:52:42,177 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Tools
+2017-08-30 15:52:42,177 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Tools
+2017-08-30 15:52:42,975 - find_auto_element - DEBUG - During search we found the object with attribute text: Tools
+2017-08-30 15:52:43,021 - clickOnLink - INFO - Clicking on link: All tasks
+2017-08-30 15:52:44,096 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:44,096 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:52:46,122 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-08-30 15:52:46,122 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All tasks
+2017-08-30 15:52:46,122 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All tasks
+2017-08-30 15:52:46,577 - find_auto_element - DEBUG - During search we found the object with attribute text: All tasks
+2017-08-30 15:52:46,674 - verifyTextOnScreen - INFO - Verifying if text: Tasks is present on page
+2017-08-30 15:52:47,733 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:47,749 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:52:49,751 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-08-30 15:52:49,766 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Tasks
+2017-08-30 15:52:49,766 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Tasks
+2017-08-30 15:52:54,092 - find_auto_element - DEBUG - During search we found the object with attribute text: Tasks
+2017-08-30 15:52:54,092 - verifyTextOnScreen - INFO - Static Text Found : Tasks
+2017-08-30 15:52:54,092 - clickOnButton - INFO - Clicking on button: Create task
+2017-08-30 15:52:55,148 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:55,164 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:52:57,180 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-08-30 15:52:57,200 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: span, value: Create task
+2017-08-30 15:52:57,209 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: span and value: Create task
+2017-08-30 15:52:58,948 - find_auto_element - ERROR - Object with given value Create task not found
+2017-08-30 15:52:58,948 - clickOnButton - ERROR - No Object found for button Create task
+2017-08-30 15:52:58,948 - verifyTextOnScreen - INFO - Verifying if text: Task detail is present on page
+2017-08-30 15:52:59,964 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:52:59,980 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:53:01,983 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-08-30 15:53:02,002 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Task detail
+2017-08-30 15:53:02,011 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Task detail
+2017-08-30 15:53:07,643 - find_auto_element - ERROR - Object with given value Task detail not found
+2017-08-30 15:53:07,643 - verifyTextOnScreen - ERROR - Text Not found : Task detail
+2017-08-30 15:53:07,674 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-30 15:57:31,066 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-08-30 15:57:32,308 - login - WARNING - Login not complete
+2017-08-30 15:57:36,633 - login - INFO - Logged in with user: Home screen is visible
+2017-08-30 15:57:37,643 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-08-30 15:57:38,729 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:57:38,744 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:57:40,750 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-30 15:57:40,797 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-30 15:57:40,797 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-08-30 15:57:40,812 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-08-30 15:57:41,048 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-08-30 15:57:41,092 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-08-30 15:57:42,145 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:57:42,160 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:57:44,171 - gotodefaultframe - DEBUG - Switching to default content
+2017-08-30 15:57:44,187 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-08-30 15:57:44,202 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-08-30 15:57:44,202 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-08-30 15:57:44,390 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-08-30 15:57:44,449 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-08-30 15:57:45,481 - ifpageloaded - DEBUG - Exception in page loading
+2017-08-30 15:57:45,481 - ifpageloaded - DEBUG - Page loading is complete
+2017-08-30 15:57:47,485 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-08-30 15:57:47,488 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-08-30 15:57:47,491 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:19:10,443 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:19:12,605 - login - WARNING - Login not complete
+2017-09-04 11:19:19,650 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:19:20,659 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:19:21,726 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:19:21,731 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:19:23,739 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:19:23,785 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:19:23,789 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:19:23,798 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:19:23,994 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:19:24,080 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:19:25,124 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:19:25,132 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:19:27,140 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:19:27,158 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:19:27,167 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:19:27,175 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:19:27,388 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:19:27,463 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:19:28,518 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:19:28,526 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:19:30,562 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:19:30,571 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:19:30,580 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:19:38,204 - find_auto_element - ERROR - Object with given value Devices not found
+2017-09-04 11:19:38,207 - verifyTextOnScreen - ERROR - Text Not found : Devices
+2017-09-04 11:19:38,211 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:19:39,265 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:19:39,273 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:19:41,284 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:19:41,293 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:19:41,303 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:19:46,138 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:19:46,140 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:19:46,144 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:19:47,191 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:19:47,199 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:19:49,207 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:20:09,478 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:20:09,489 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Organisation
+2017-09-04 11:20:09,498 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Organisation
+2017-09-04 11:20:09,574 - find_auto_element - ERROR - Object with given value Organisation not found
+2017-09-04 11:20:09,578 - clickOnMenu - ERROR - No Object found for menu Organisation
+2017-09-04 11:22:27,063 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:22:28,205 - login - WARNING - Login not complete
+2017-09-04 11:22:35,089 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:22:36,100 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:22:36,178 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:22:39,222 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:22:39,231 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:22:41,240 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:22:41,259 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:22:41,269 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:22:41,279 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:22:41,511 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:22:41,553 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:22:42,613 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:22:42,621 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:22:44,628 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:22:44,646 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:22:44,655 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:22:44,664 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:22:44,806 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:22:44,887 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:22:45,927 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:22:45,936 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:22:47,946 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:22:47,955 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:22:47,963 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:22:51,011 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:22:51,014 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:22:51,020 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:22:51,074 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:22:54,118 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:22:54,126 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:22:56,137 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:22:56,147 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:22:56,156 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:23:04,897 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:23:04,899 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:23:04,905 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:23:05,960 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:23:05,968 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:23:07,976 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:23:07,994 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:23:08,003 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Organisation
+2017-09-04 11:23:08,008 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Organisation
+2017-09-04 11:23:10,021 - find_auto_element - ERROR - Object with given value Organisation not found
+2017-09-04 11:23:10,024 - clickOnMenu - ERROR - No Object found for menu Organisation
+2017-09-04 11:26:27,988 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:26:29,124 - login - WARNING - Login not complete
+2017-09-04 11:26:31,772 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:26:32,784 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:26:33,856 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:26:33,861 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:26:35,868 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:26:35,881 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:26:35,885 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:26:35,890 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:26:36,083 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:26:36,121 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:26:37,160 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:26:37,168 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:26:39,170 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:26:39,182 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:26:39,189 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:26:39,195 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:26:39,352 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:26:39,402 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:26:40,442 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:26:40,450 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:26:42,462 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:26:42,471 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:26:42,480 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:26:45,842 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:26:45,844 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:26:45,847 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:26:46,896 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:26:46,905 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:26:48,915 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:26:48,924 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:26:48,933 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:26:56,714 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:26:56,717 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:26:56,720 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:26:57,761 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:26:57,769 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:26:59,777 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:26:59,794 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:26:59,804 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Organisation
+2017-09-04 11:26:59,813 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Organisation
+2017-09-04 11:27:01,989 - find_auto_element - ERROR - Object with given value Organisation not found
+2017-09-04 11:27:01,992 - clickOnMenu - ERROR - No Object found for menu Organisation
+2017-09-04 11:31:01,670 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:31:02,925 - login - WARNING - Login not complete
+2017-09-04 11:31:12,118 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:31:13,125 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:31:13,193 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:31:15,238 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:31:18,280 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:31:18,289 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:31:20,297 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:31:20,316 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:31:20,325 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:31:20,334 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:31:20,543 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:31:20,585 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:31:21,625 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:31:21,633 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:31:23,642 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:31:23,660 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:31:23,670 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:31:23,679 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:31:23,905 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:31:23,959 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:31:25,012 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:31:25,021 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:31:27,033 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:31:27,043 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:31:27,051 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:31:30,473 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:31:30,478 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:31:30,483 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:31:31,563 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:31:31,571 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:31:33,581 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:31:33,591 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:31:33,599 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:31:42,005 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:31:42,008 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:31:42,012 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:31:43,068 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:31:43,076 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:31:45,085 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:31:45,104 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:31:45,113 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 11:31:45,122 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 11:31:45,429 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 11:47:31,639 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:47:32,851 - login - WARNING - Login not complete
+2017-09-04 11:47:37,370 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:47:38,380 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:47:38,452 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:47:41,488 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:47:41,496 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:47:43,505 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:47:43,524 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:47:43,533 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:47:43,544 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:47:43,774 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:47:43,817 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:47:44,861 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:47:44,869 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:47:46,873 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:47:46,881 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:47:46,885 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:47:46,888 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:47:47,110 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:47:47,161 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:47:48,206 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:47:48,215 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:47:50,227 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:47:50,237 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:47:50,246 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:47:53,753 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:47:53,756 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:47:53,759 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:47:54,813 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:47:54,820 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:47:56,832 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:47:56,841 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:47:56,850 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:48:05,031 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:48:05,034 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:48:05,037 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:48:06,079 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:48:06,087 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:48:08,098 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:48:08,107 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 11:48:08,116 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 11:48:08,361 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 11:49:07,551 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:49:08,723 - login - WARNING - Login not complete
+2017-09-04 11:49:11,885 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:49:12,894 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:49:13,981 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:13,989 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:15,997 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:49:16,017 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:49:16,026 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:49:16,035 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:49:16,253 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:49:16,293 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:49:17,336 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:17,344 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:19,353 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:49:19,371 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:49:19,380 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:49:19,389 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:49:19,518 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:49:19,576 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:49:20,614 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:20,623 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:22,635 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:49:22,645 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:49:22,653 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:49:26,289 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:49:26,292 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:49:26,294 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:49:27,346 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:27,355 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:29,365 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:49:29,375 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:49:29,383 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:49:38,002 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:49:38,004 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:49:38,008 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:49:39,062 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:39,070 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:41,081 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:49:41,090 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 11:49:41,098 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 11:49:41,324 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 11:49:41,716 - clickOnInput - INFO - Clicking on menu: PPTOMTOM
+2017-09-04 11:49:41,763 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:49:44,809 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:44,817 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:46,827 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:49:46,836 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: PPTOMTOM
+2017-09-04 11:49:46,845 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: PPTOMTOM
+2017-09-04 11:49:47,340 - find_auto_element - ERROR - Object with given value PPTOMTOM not found
+2017-09-04 11:49:47,343 - clickOnInput - ERROR - No Object found for input PPTOMTOM
+2017-09-04 11:49:47,346 - clickOnInput - INFO - Clicking on menu: aricent_55
+2017-09-04 11:49:48,393 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:49:48,401 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:49:50,410 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:49:50,420 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: aricent_55
+2017-09-04 11:49:50,429 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: aricent_55
+2017-09-04 11:49:50,788 - find_auto_element - ERROR - Object with given value aricent_55 not found
+2017-09-04 11:49:50,792 - clickOnInput - ERROR - No Object found for input aricent_55
+2017-09-04 11:51:09,049 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:51:10,339 - login - WARNING - Login not complete
+2017-09-04 11:51:13,076 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:51:14,087 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:51:14,153 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:51:17,188 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:51:17,196 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:51:19,205 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:51:19,217 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:51:19,221 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:51:19,226 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:51:19,419 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:51:19,462 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:51:20,493 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:51:20,501 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:51:22,508 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:51:22,525 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:51:22,535 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:51:22,544 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:51:22,823 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:51:22,894 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:51:23,926 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:51:23,930 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:51:25,942 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:51:25,952 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:51:25,961 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:52:37,131 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:52:38,903 - login - WARNING - Login not complete
+2017-09-04 11:52:42,491 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:52:43,502 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:52:44,584 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:52:44,593 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:52:46,602 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:52:46,621 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:52:46,630 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:52:46,639 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:52:46,874 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:52:46,915 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:52:47,956 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:52:47,964 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:52:49,972 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:52:49,990 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:52:49,996 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:52:50,001 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:52:50,158 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:52:50,212 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:52:51,253 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:52:51,261 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:52:53,265 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:52:53,268 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:52:53,272 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:53:28,719 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:53:29,872 - login - WARNING - Login not complete
+2017-09-04 11:53:33,153 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:53:34,162 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:53:35,252 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:53:35,261 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:53:37,268 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:53:37,287 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:53:37,301 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:53:37,306 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:53:37,535 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:53:37,577 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:53:38,628 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:53:38,636 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:53:40,644 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:53:40,663 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:53:40,673 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:53:40,681 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:53:40,953 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:53:41,056 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:53:42,106 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:53:42,114 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:53:44,126 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:53:44,136 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:53:44,144 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:53:47,578 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:53:47,581 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:53:47,584 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:53:48,633 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:53:48,642 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:53:50,651 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:53:50,661 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:53:50,670 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:53:58,784 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:53:58,786 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:53:58,790 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:53:59,867 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:53:59,875 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:54:01,886 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:54:01,895 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 11:54:01,902 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 11:54:02,136 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 11:54:02,544 - clickOnInput - INFO - Clicking on menu: PPTOMTOM
+2017-09-04 11:54:02,584 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:54:05,628 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:54:05,637 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:54:07,647 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:54:07,657 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: PPTOMTOM
+2017-09-04 11:54:07,667 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: PPTOMTOM
+2017-09-04 11:54:08,203 - find_auto_element - ERROR - Object with given value PPTOMTOM not found
+2017-09-04 11:54:08,206 - clickOnInput - ERROR - No Object found for input PPTOMTOM
+2017-09-04 11:54:08,210 - clickOnInput - INFO - Clicking on menu: aricent_55
+2017-09-04 11:54:09,246 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:54:09,255 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:54:11,264 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:54:11,274 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: aricent_55
+2017-09-04 11:54:11,283 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: aricent_55
+2017-09-04 11:54:11,685 - find_auto_element - ERROR - Object with given value aricent_55 not found
+2017-09-04 11:54:11,688 - clickOnInput - ERROR - No Object found for input aricent_55
+2017-09-04 11:55:45,923 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 11:55:47,023 - login - WARNING - Login not complete
+2017-09-04 11:55:49,746 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 11:55:50,757 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 11:55:50,836 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:55:53,880 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:55:53,891 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:55:55,900 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:55:55,919 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:55:55,928 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 11:55:55,937 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 11:55:56,161 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:55:56,203 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 11:55:57,247 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:55:57,255 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:55:59,259 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 11:55:59,268 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 11:55:59,271 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 11:55:59,275 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 11:55:59,475 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 11:55:59,522 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 11:56:00,573 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:56:00,581 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:56:02,593 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:56:02,602 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 11:56:02,612 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 11:56:06,235 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 11:56:06,238 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 11:56:06,241 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 11:56:07,295 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:56:07,303 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:56:09,314 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 11:56:09,324 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 11:56:09,333 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 11:56:17,548 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 11:56:17,550 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 11:56:17,553 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 11:56:18,598 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:56:18,606 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:56:20,618 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 11:56:20,627 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 11:56:20,636 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 11:56:20,899 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 11:56:21,298 - selectFromList - INFO - selecting option: PPTOMTOM
+2017-09-04 11:56:21,341 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:56:24,380 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:56:24,388 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:56:26,399 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 11:56:26,408 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 11:56:26,417 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 11:56:28,721 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 11:56:28,805 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 11:56:28,862 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 11:56:31,912 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 11:56:31,920 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 11:56:33,930 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 11:56:33,940 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 11:56:33,949 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 11:56:59,673 - find_auto_element - ERROR - Object with given value aricent_55 not found
+2017-09-04 11:56:59,676 - selectFromList - ERROR - No Object found for option aricent_55
+2017-09-04 12:10:10,421 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 12:10:11,669 - login - WARNING - Login not complete
+2017-09-04 12:10:16,992 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 12:10:18,002 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 12:10:19,086 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:19,094 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:21,102 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 12:10:21,111 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 12:10:21,115 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 12:10:21,120 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 12:10:21,324 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 12:10:21,362 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 12:10:22,402 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:22,410 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:24,418 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 12:10:24,436 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 12:10:24,445 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 12:10:24,454 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 12:10:24,645 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 12:10:24,696 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 12:10:25,736 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:25,744 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:27,754 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 12:10:27,764 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 12:10:27,773 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 12:10:31,337 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 12:10:31,340 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 12:10:31,343 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 12:10:32,393 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:32,402 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:34,411 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 12:10:34,422 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 12:10:34,430 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 12:10:42,651 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 12:10:42,654 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 12:10:42,657 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 12:10:43,695 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:43,704 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:45,714 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 12:10:45,723 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 12:10:45,732 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 12:10:45,975 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 12:10:46,371 - selectFromList - INFO - selecting option: PPTOMTOM
+2017-09-04 12:10:46,424 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 12:10:49,468 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:49,473 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:51,483 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 12:10:51,492 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 12:10:51,501 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 12:10:53,832 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 12:10:53,921 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 12:10:53,983 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 12:10:57,046 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 12:10:57,054 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 12:10:59,064 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 12:10:59,074 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 12:10:59,083 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 12:11:24,522 - find_auto_element - ERROR - Object with given value aricent_55 not found
+2017-09-04 12:11:24,525 - selectFromList - ERROR - No Object found for option aricent_55
+2017-09-04 14:27:17,637 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 14:27:18,913 - login - WARNING - Login not complete
+2017-09-04 14:27:24,698 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 14:27:25,707 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 14:27:25,783 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:27:27,801 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:27:30,843 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:27:30,851 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:27:32,857 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:27:32,876 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:27:32,880 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 14:27:32,883 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 14:27:33,075 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:27:33,119 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 14:27:34,163 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:27:34,171 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:27:36,178 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:27:36,197 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:27:36,206 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 14:27:36,215 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 14:27:36,383 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 14:27:36,437 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 14:27:37,473 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:27:37,476 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:27:39,486 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:27:39,494 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 14:27:39,501 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 14:27:42,918 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:27:42,921 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 14:27:42,923 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 14:27:43,975 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:27:43,984 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:27:45,994 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:27:46,003 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 14:27:46,009 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 14:27:54,547 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 14:27:54,550 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 14:27:54,553 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 14:27:55,600 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:27:55,606 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:27:57,612 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 14:27:57,620 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 14:27:57,628 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 14:27:57,852 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 14:27:58,275 - selectFromList - INFO - selecting option: PPTOMTOM
+2017-09-04 14:27:58,320 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:28:01,361 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:28:01,364 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:28:03,374 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:28:03,379 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 14:28:03,383 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 14:28:05,764 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 14:28:05,853 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 14:28:05,902 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:28:07,954 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:28:11,017 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:28:11,025 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:28:13,034 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:28:13,044 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 14:28:13,052 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 14:28:45,717 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 14:28:47,102 - login - WARNING - Login not complete
+2017-09-04 14:29:02,632 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 14:29:03,643 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 14:29:03,716 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:29:06,758 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:06,766 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:08,774 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:29:08,792 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:29:08,802 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 14:29:08,812 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 14:29:09,050 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:29:09,093 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 14:29:10,130 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:10,134 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:12,138 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:29:12,146 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:29:12,150 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 14:29:12,154 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 14:29:12,367 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 14:29:12,415 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 14:29:13,464 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:13,474 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:15,485 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:29:15,494 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 14:29:15,503 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 14:29:18,748 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:29:18,750 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 14:29:18,753 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 14:29:18,791 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:29:21,837 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:21,844 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:23,855 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:29:23,864 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 14:29:23,870 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 14:29:32,126 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 14:29:32,129 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 14:29:32,132 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 14:29:33,180 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:33,184 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:35,194 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 14:29:35,203 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 14:29:35,213 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 14:29:35,459 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 14:29:35,863 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-04 14:29:35,906 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:29:38,954 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:38,962 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:40,973 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:29:40,982 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 14:29:40,991 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 14:29:43,208 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 14:29:43,312 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 14:29:44,373 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:29:44,386 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:29:46,396 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:29:46,405 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 14:29:46,414 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 14:29:48,201 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-04 14:31:17,205 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 14:31:18,379 - login - WARNING - Login not complete
+2017-09-04 14:31:21,449 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 14:31:22,459 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 14:31:23,537 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:23,545 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:31:25,553 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:31:25,572 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:31:25,583 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 14:31:25,593 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 14:31:25,798 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:31:25,842 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 14:31:26,877 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:26,885 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:31:28,894 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:31:28,912 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:31:28,922 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 14:31:28,930 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 14:31:29,060 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 14:31:29,111 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 14:31:30,153 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:30,161 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:31:32,172 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:31:32,182 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 14:31:32,191 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 14:31:35,858 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:31:35,860 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 14:31:35,863 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 14:31:36,918 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:36,926 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:31:38,935 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:31:38,945 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 14:31:38,953 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 14:31:47,406 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 14:31:47,409 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 14:31:47,412 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 14:31:48,467 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:48,475 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:31:50,486 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 14:31:50,495 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 14:31:50,504 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 14:31:50,747 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 14:31:51,169 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-04 14:31:51,211 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:31:54,253 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:54,256 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:31:56,267 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:31:56,276 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 14:31:56,285 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 14:31:58,621 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 14:31:58,724 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 14:31:59,780 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:31:59,788 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:32:01,792 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:32:01,795 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 14:32:01,798 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 14:32:03,640 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-04 14:32:03,751 - clickOnButton - INFO - Clicking on button: Search
+2017-09-04 14:32:03,796 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:32:06,847 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:32:06,856 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:32:08,890 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 14:32:08,899 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: span, value: Search
+2017-09-04 14:32:08,908 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: span and value: Search
+2017-09-04 14:34:18,423 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 14:34:19,605 - login - WARNING - Login not complete
+2017-09-04 14:34:23,351 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 14:34:24,361 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 14:34:25,441 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:34:25,444 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:34:27,451 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:34:27,470 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:34:27,479 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 14:34:27,488 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 14:34:27,691 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:34:27,730 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 14:34:28,772 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:34:28,780 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:34:30,788 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:34:30,805 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:34:30,815 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 14:34:30,824 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 14:34:31,010 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 14:34:31,065 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 14:34:32,107 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:34:32,115 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:34:34,126 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:34:34,136 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 14:34:34,145 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 14:34:37,469 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:34:37,472 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 14:34:37,475 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 14:34:38,525 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:34:38,534 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:34:40,540 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:34:40,546 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 14:34:40,549 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 14:34:48,670 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 14:34:48,673 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 14:34:48,676 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 14:34:49,731 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:34:49,739 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:34:51,750 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 14:34:51,759 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 14:34:51,768 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 14:34:52,003 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 14:34:52,440 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-04 14:34:52,486 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:34:55,533 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:34:55,541 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:34:57,552 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:34:57,561 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 14:34:57,570 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 14:34:59,832 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 14:34:59,929 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 14:35:00,976 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:35:00,984 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:35:02,987 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:35:02,990 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 14:35:02,993 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 14:35:04,744 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-04 14:35:04,831 - clickOnButton - INFO - Clicking on button: Search
+2017-09-04 14:35:04,881 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:35:06,932 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:35:09,998 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:35:10,006 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:35:12,017 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 14:35:12,026 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: span, value: Search
+2017-09-04 14:35:12,035 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: span and value: Search
+2017-09-04 14:37:11,769 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-04 14:37:12,577 - verifyTextOnScreen - INFO - Verifying if text: No results were found is present on page
+2017-09-04 14:37:12,682 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:37:15,793 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:37:15,801 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:37:17,811 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:37:17,820 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: No results were found
+2017-09-04 14:37:17,829 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: No results were found
+2017-09-04 14:37:24,848 - find_auto_element - DEBUG - During search we found the object with attribute text: No results were found
+2017-09-04 14:37:24,850 - verifyTextOnScreen - INFO - Static Text Found : No results were found
+2017-09-04 14:39:34,499 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 14:39:35,690 - login - WARNING - Login not complete
+2017-09-04 14:39:39,732 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 14:39:40,743 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 14:39:40,818 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:39:43,864 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:39:43,872 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:39:45,880 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:39:45,900 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:39:45,909 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 14:39:45,919 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 14:39:46,160 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:39:46,200 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 14:39:47,242 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:39:47,250 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:39:49,259 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:39:49,277 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:39:49,287 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 14:39:49,296 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 14:39:49,497 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 14:39:49,549 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 14:39:50,583 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:39:50,586 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:39:52,598 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:39:52,606 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 14:39:52,612 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 14:39:56,071 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:39:56,074 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 14:39:56,079 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 14:39:57,125 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:39:57,128 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:39:59,137 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:39:59,147 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 14:39:59,156 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 14:40:07,721 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 14:40:07,724 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 14:40:07,727 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 14:40:08,779 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:40:08,788 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:40:10,798 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 14:40:10,807 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 14:40:10,816 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 14:40:11,071 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 14:40:11,466 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-04 14:40:11,508 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:40:14,555 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:40:14,563 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:40:16,575 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:40:16,584 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 14:40:16,593 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 14:40:18,897 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 14:40:19,006 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 14:40:20,064 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:40:20,072 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:40:22,083 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:40:22,092 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 14:40:22,101 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 14:40:23,898 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-04 14:40:23,986 - clickOnButton - INFO - Clicking on button: Search
+2017-09-04 14:40:24,036 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:40:26,073 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:40:29,125 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:40:29,133 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:40:31,144 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 14:40:31,153 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: span, value: Search
+2017-09-04 14:40:31,162 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: span and value: Search
+2017-09-04 14:42:31,633 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-04 14:42:32,429 - verifyTextOnScreen - INFO - Verifying if text: No results were found is present on page
+2017-09-04 14:42:32,535 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:42:35,615 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:42:35,623 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:42:37,635 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:42:37,643 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: No results were found
+2017-09-04 14:42:37,652 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: No results were found
+2017-09-04 14:42:44,619 - find_auto_element - DEBUG - During search we found the object with attribute text: No results were found
+2017-09-04 14:42:44,621 - verifyTextOnScreen - INFO - Static Text Found : No results were found
+2017-09-04 14:43:51,251 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 14:43:52,412 - login - WARNING - Login not complete
+2017-09-04 14:43:55,788 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 14:43:56,798 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 14:43:57,881 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:43:57,890 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:43:59,900 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:43:59,917 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:43:59,925 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 14:43:59,931 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 14:44:00,174 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:44:00,216 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 14:44:01,256 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:01,264 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:03,272 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 14:44:03,290 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 14:44:03,300 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 14:44:03,309 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 14:44:03,479 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 14:44:03,532 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 14:44:04,574 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:04,582 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:06,595 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:44:06,605 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 14:44:06,614 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 14:44:09,593 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 14:44:09,595 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 14:44:09,598 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 14:44:09,637 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:11,661 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:14,706 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:14,714 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:16,725 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:44:16,735 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 14:44:16,744 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 14:44:25,185 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 14:44:25,188 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 14:44:25,191 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 14:44:26,231 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:26,239 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:28,250 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 14:44:28,259 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 14:44:28,268 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 14:44:28,513 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 14:44:28,894 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-04 14:44:28,934 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:31,980 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:31,988 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:33,999 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:44:34,008 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 14:44:34,017 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 14:44:36,378 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 14:44:36,486 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 14:44:37,553 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:37,562 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:39,572 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 14:44:39,581 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 14:44:39,586 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 14:44:41,419 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-04 14:44:41,518 - clickOnButton - INFO - Clicking on button: Search
+2017-09-04 14:44:41,567 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:43,629 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:45,688 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:47,749 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:50,797 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:50,805 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:52,816 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 14:44:52,830 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Search
+2017-09-04 14:44:52,841 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Search
+2017-09-04 14:44:53,033 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-04 14:44:53,807 - verifyTextOnScreen - INFO - Verifying if text: No results were found is present on page
+2017-09-04 14:44:53,868 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 14:44:56,931 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 14:44:56,939 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 14:44:58,950 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 14:44:58,959 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: No results were found
+2017-09-04 14:44:58,966 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: No results were found
+2017-09-04 14:45:04,492 - find_auto_element - DEBUG - During search we found the object with attribute text: No results were found
+2017-09-04 14:45:04,495 - verifyTextOnScreen - INFO - Static Text Found : No results were found
+2017-09-04 15:13:42,928 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 15:13:44,140 - login - WARNING - Login not complete
+2017-09-04 15:13:48,557 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 15:13:49,567 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-04 15:13:49,647 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 15:13:52,689 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:13:52,697 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:13:54,706 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 15:13:54,725 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 15:13:54,734 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-04 15:13:54,744 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-04 15:13:54,977 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 15:13:55,025 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-04 15:13:56,069 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:13:56,077 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:13:58,084 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 15:13:58,103 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 15:13:58,112 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-04 15:13:58,121 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-04 15:13:58,273 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-04 15:13:58,361 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-04 15:13:59,403 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:13:59,411 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:14:01,415 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 15:14:01,419 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-04 15:14:01,422 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-04 15:14:04,927 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-04 15:14:04,930 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-04 15:14:04,935 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-04 15:14:05,977 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:14:05,986 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:14:07,996 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 15:14:08,006 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-04 15:14:08,015 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-04 15:14:16,247 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-04 15:14:16,250 - verifyTextOnScreen - ERROR - Text Not found : Search
+2017-09-04 15:14:16,253 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-04 15:14:17,304 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:14:17,313 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:14:19,324 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-04 15:14:19,332 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-04 15:14:19,338 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-04 15:14:19,560 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-04 15:14:19,946 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-04 15:14:20,003 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 15:14:23,052 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:14:23,060 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:14:25,071 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 15:14:25,080 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-04 15:14:25,089 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-04 15:14:27,433 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-04 15:14:27,549 - selectFromList - INFO - selecting option: aricent_55
+2017-09-04 15:14:28,619 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 15:14:28,627 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 15:14:30,631 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-04 15:14:30,635 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-04 15:14:30,638 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-04 15:14:32,479 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-04 15:58:58,776 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 15:59:00,005 - login - WARNING - Login not complete
+2017-09-04 15:59:04,215 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 15:59:05,228 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:00:00,732 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:00:02,219 - login - WARNING - Login not complete
+2017-09-04 16:00:06,436 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:00:07,448 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:00:08,533 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:00:08,542 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:00:10,549 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:00:10,569 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:00:10,577 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:00:10,583 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:00:11,082 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:00:11,123 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:00:12,163 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:00:12,172 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:00:14,181 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:00:14,200 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:00:14,209 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:00:14,219 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:00:14,661 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:00:14,715 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:00:15,761 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:00:15,770 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:00:17,782 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:00:17,791 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:00:17,801 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:00:21,396 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:00:21,398 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:00:21,408 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:00:22,463 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:00:22,473 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:00:24,483 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:00:24,493 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:00:24,502 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:00:28,730 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:00:28,734 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:00:28,746 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:00:29,788 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:00:29,797 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:00:31,832 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:00:31,841 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:00:31,848 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:00:33,199 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:00:33,248 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:00:34,298 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:00:34,306 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:00:36,318 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:00:36,328 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:00:36,337 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:00:36,470 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:05:03,753 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:05:04,908 - login - WARNING - Login not complete
+2017-09-04 16:05:09,602 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:05:10,605 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:05:10,649 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 16:05:13,687 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:05:13,691 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:05:15,694 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:05:15,701 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:05:15,704 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:05:15,707 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:05:16,155 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:05:16,197 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:05:17,258 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:05:17,267 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:05:19,270 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:05:19,278 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:05:19,282 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:05:19,285 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:05:19,819 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:05:19,894 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:05:20,945 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:05:20,954 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:05:22,958 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:05:22,961 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:05:22,974 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:06:47,395 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:06:48,661 - login - WARNING - Login not complete
+2017-09-04 16:06:51,932 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:06:52,944 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:06:54,024 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:06:54,033 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:06:56,041 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:06:56,062 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:06:56,072 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:06:56,082 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:06:56,563 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:06:56,610 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:06:57,674 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:06:57,682 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:06:59,690 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:06:59,709 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:06:59,719 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:06:59,729 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:07:00,061 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:07:00,125 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:07:01,153 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:07:01,158 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:07:03,165 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:07:03,170 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:07:03,177 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:07:06,923 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:07:06,926 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:07:06,935 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:07:08,005 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:07:08,015 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:07:10,025 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:07:10,034 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:07:10,040 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:07:14,314 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:07:14,317 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:07:14,321 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:07:15,360 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:07:15,369 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:07:17,380 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:07:17,389 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:07:17,398 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:07:18,807 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:07:18,855 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:07:19,911 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:07:19,920 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:07:21,931 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:07:21,940 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:07:21,949 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:07:22,148 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:07:22,212 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 16:07:23,258 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:07:23,266 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:07:25,277 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:07:25,286 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:07:25,295 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:17:40,593 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:17:41,871 - login - WARNING - Login not complete
+2017-09-04 16:17:44,718 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:17:45,730 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:17:46,809 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:17:46,815 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:17:48,824 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:17:48,844 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:17:48,853 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:17:48,858 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:17:49,433 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:17:49,478 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:17:50,518 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:17:50,527 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:17:52,535 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:17:52,554 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:17:52,564 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:17:52,573 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:17:52,941 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:17:52,993 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:17:54,024 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:17:54,027 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:17:56,037 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:17:56,050 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:17:56,056 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:17:59,781 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:17:59,783 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:17:59,786 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:18:00,841 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:18:00,849 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:18:02,859 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:18:02,868 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:18:02,878 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:18:07,137 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:18:07,140 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:18:07,144 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:18:08,179 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:18:08,187 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:18:10,199 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:18:10,208 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:18:10,217 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:18:11,613 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:18:11,658 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:18:12,701 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:18:12,710 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:18:14,721 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:18:14,731 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:18:14,739 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:18:14,895 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:18:14,969 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 16:18:16,008 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:18:16,011 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:18:18,016 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:18:18,019 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:18:18,023 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:18:19,837 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:18:19,840 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:18:19,844 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:20:07,826 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:20:09,055 - login - WARNING - Login not complete
+2017-09-04 16:20:13,634 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:20:14,644 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:20:15,728 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:15,736 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:17,744 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:20:17,763 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:20:17,772 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:20:17,782 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:20:18,279 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:20:18,325 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:20:19,364 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:19,370 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:21,377 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:20:21,395 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:20:21,405 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:20:21,413 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:20:21,874 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:20:21,929 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:20:22,967 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:22,975 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:24,986 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:20:24,996 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:20:25,004 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:20:32,338 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:20:32,343 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:20:32,348 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:20:35,370 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:20:35,373 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:20:35,376 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:20:36,424 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:36,426 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:38,443 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:20:38,451 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:20:38,455 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:20:42,742 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:20:42,745 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:20:42,747 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:20:43,801 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:43,809 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:45,820 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:20:45,830 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:20:45,839 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:20:47,226 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:20:47,304 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:20:48,359 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:48,368 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:50,379 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:20:50,389 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:20:50,398 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:20:50,584 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:20:50,647 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 16:20:51,693 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:20:51,702 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:20:53,706 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:20:53,711 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:20:53,714 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:21:04,120 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:21:04,130 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:21:04,139 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:21:09,832 - find_auto_element - ERROR - Object with given value Basic information not found
+2017-09-04 16:21:09,836 - verifyTextOnScreen - ERROR - Text Not found : Basic information
+2017-09-04 16:21:09,844 - enterText - INFO - Entering text AUTO1212 for Customer name
+2017-09-04 16:21:10,906 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:21:10,909 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:21:12,935 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:21:12,939 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: bc_field_label, value: Customer name
+2017-09-04 16:21:12,943 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: bc_field_label and value: Customer name
+2017-09-04 16:21:12,967 - find_auto_element - ERROR - Object with given value Customer name not found
+2017-09-04 16:21:12,970 - enterText - ERROR - No object found for text Customer name
+2017-09-04 16:21:12,984 - enterText - INFO - Entering text autotest for Customer description
+2017-09-04 16:21:14,047 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:21:14,055 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:21:16,065 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:21:16,075 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: bc_field_label, value: Customer description
+2017-09-04 16:21:16,084 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: bc_field_label and value: Customer description
+2017-09-04 16:21:16,103 - find_auto_element - ERROR - Object with given value Customer description not found
+2017-09-04 16:21:16,107 - enterText - ERROR - No object found for text Customer description
+2017-09-04 16:48:17,271 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:48:18,419 - login - WARNING - Login not complete
+2017-09-04 16:48:21,144 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:48:22,156 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:48:23,255 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:23,263 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:48:25,272 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:48:25,291 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:48:25,300 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:48:25,307 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:48:25,806 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:48:25,847 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:48:26,893 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:26,902 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:48:28,910 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:48:28,929 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:48:28,937 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:48:28,943 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:48:29,398 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:48:29,454 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:48:30,487 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:30,496 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:48:32,508 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:48:32,518 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:48:32,527 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:48:39,327 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:48:39,336 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:48:39,345 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:48:42,343 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:48:42,345 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:48:42,348 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:48:43,396 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:43,404 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:48:45,421 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:48:45,431 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:48:45,440 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:48:49,802 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:48:49,805 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:48:49,807 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:48:50,846 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:50,854 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:48:52,858 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:48:52,861 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:48:52,864 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:48:54,343 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:48:54,422 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:48:55,473 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:55,482 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:48:57,486 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:48:57,489 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:48:57,492 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:48:57,615 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:48:57,674 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 16:48:58,718 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:48:58,726 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:49:00,739 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:49:00,748 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:49:00,757 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:49:07,469 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:49:07,479 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:49:07,489 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:49:13,869 - find_auto_element - ERROR - Object with given value Basic information not found
+2017-09-04 16:49:13,872 - verifyTextOnScreen - ERROR - Text Not found : Basic information
+2017-09-04 16:49:13,876 - enterText - INFO - Entering text AUTO1212 for Customer name
+2017-09-04 16:49:14,935 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:49:14,943 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:49:16,955 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:49:16,964 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: input, value: Customer name
+2017-09-04 16:49:16,973 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: input and value: Customer name
+2017-09-04 16:49:18,388 - find_auto_element - ERROR - Object with given value Customer name not found
+2017-09-04 16:49:18,391 - enterText - ERROR - No object found for text Customer name
+2017-09-04 16:49:18,394 - enterText - INFO - Entering text autotest for Customer description
+2017-09-04 16:49:19,438 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:49:19,447 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:49:21,452 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:49:21,456 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: input, value: Customer description
+2017-09-04 16:49:21,459 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: input and value: Customer description
+2017-09-04 16:49:22,379 - find_auto_element - ERROR - Object with given value Customer description not found
+2017-09-04 16:49:22,382 - enterText - ERROR - No object found for text Customer description
+2017-09-04 16:51:39,866 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:51:41,046 - login - WARNING - Login not complete
+2017-09-04 16:51:45,668 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:51:46,678 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:51:47,767 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:51:47,775 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:51:49,784 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:51:49,802 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:51:49,812 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:51:49,822 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:51:50,371 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:51:50,413 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:51:51,456 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:51:51,464 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:51:53,473 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:51:53,491 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:51:53,501 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:51:53,511 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:51:53,964 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:51:54,016 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:51:55,057 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:51:55,065 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:51:57,070 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:51:57,075 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:51:57,078 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:52:00,495 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:52:00,498 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:52:00,501 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:52:01,546 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:52:01,549 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:52:03,553 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:52:03,562 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:52:03,570 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:52:07,792 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:52:07,795 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:52:07,798 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:52:08,841 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:52:08,849 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:52:10,861 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:52:10,870 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:52:10,879 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:52:12,241 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:52:12,287 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:52:13,333 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:52:13,342 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:52:15,353 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:52:15,363 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:52:15,372 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:52:15,521 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:52:15,584 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 16:52:16,630 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:52:16,638 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:52:18,643 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:52:18,648 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:52:18,652 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:52:29,765 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:52:29,768 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:52:29,770 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:52:34,981 - find_auto_element - ERROR - Object with given value Basic information not found
+2017-09-04 16:52:34,984 - verifyTextOnScreen - ERROR - Text Not found : Basic information
+2017-09-04 16:52:34,987 - enterText - INFO - Entering text AUTO1212 for Customer name
+2017-09-04 16:52:36,040 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:52:36,048 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:52:38,059 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:52:38,068 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Customer name
+2017-09-04 16:52:38,077 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Customer name
+2017-09-04 16:52:38,699 - find_auto_element - ERROR - Object with given value Customer name not found
+2017-09-04 16:52:38,702 - enterText - ERROR - No object found for text Customer name
+2017-09-04 16:52:38,705 - enterText - INFO - Entering text autotest for Customer description
+2017-09-04 16:52:39,741 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:52:39,744 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:52:41,755 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:52:41,764 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Customer description
+2017-09-04 16:52:41,773 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Customer description
+2017-09-04 16:52:42,232 - find_auto_element - ERROR - Object with given value Customer description not found
+2017-09-04 16:52:42,234 - enterText - ERROR - No object found for text Customer description
+2017-09-04 16:53:47,559 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 16:53:48,740 - login - WARNING - Login not complete
+2017-09-04 16:53:51,232 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 16:53:52,244 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 16:53:53,323 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:53:53,332 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:53:55,336 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:53:55,343 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:53:55,347 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 16:53:55,351 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 16:53:55,811 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 16:53:55,850 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 16:53:56,904 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:53:56,909 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:53:58,917 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 16:53:58,935 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 16:53:58,945 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 16:53:58,956 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 16:53:59,283 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 16:53:59,355 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 16:54:00,387 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:00,390 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:02,401 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:54:02,412 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:54:02,424 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:54:09,174 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:54:09,184 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 16:54:09,193 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 16:54:12,012 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 16:54:12,015 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 16:54:12,018 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 16:54:13,072 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:13,080 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:15,091 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:54:15,101 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 16:54:15,106 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 16:54:19,383 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 16:54:19,386 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 16:54:19,389 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 16:54:20,464 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:20,474 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:22,486 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 16:54:22,496 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 16:54:22,504 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 16:54:23,831 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 16:54:23,879 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 16:54:24,941 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:24,950 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:26,962 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 16:54:26,973 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 16:54:26,981 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 16:54:27,153 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 16:54:27,215 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 16:54:28,260 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:28,269 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:30,274 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:54:30,278 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:54:30,281 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:54:41,316 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 16:54:41,325 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 16:54:41,331 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 16:54:47,235 - find_auto_element - ERROR - Object with given value Basic information not found
+2017-09-04 16:54:47,238 - verifyTextOnScreen - ERROR - Text Not found : Basic information
+2017-09-04 16:54:47,241 - enterText - INFO - Entering text AUTO1212 for * Customer name
+2017-09-04 16:54:48,299 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:48,307 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:50,318 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:54:50,328 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: * Customer name
+2017-09-04 16:54:50,337 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: * Customer name
+2017-09-04 16:54:50,593 - find_auto_element - DEBUG - During search we found the object with attribute text: * Customer name
+2017-09-04 16:54:50,792 - enterText - INFO - Entering text autotest for * Customer description
+2017-09-04 16:54:51,837 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 16:54:51,846 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 16:54:53,858 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 16:54:53,869 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: * Customer description
+2017-09-04 16:54:53,878 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: * Customer description
+2017-09-04 16:54:54,041 - find_auto_element - DEBUG - During search we found the object with attribute text: * Customer description
+2017-09-04 17:05:09,506 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 17:05:10,690 - login - WARNING - Login not complete
+2017-09-04 17:05:15,569 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 17:05:16,578 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 17:05:16,648 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-04 17:05:19,667 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:19,670 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:21,679 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 17:05:21,697 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 17:05:21,705 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 17:05:21,710 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 17:05:22,153 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 17:05:22,192 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 17:05:23,231 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:23,240 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:25,248 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 17:05:25,256 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 17:05:25,261 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 17:05:25,265 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 17:05:25,830 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 17:05:25,892 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 17:05:26,950 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:26,959 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:28,970 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:05:28,980 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 17:05:28,989 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 17:05:35,792 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:05:35,802 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 17:05:35,811 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 17:05:38,675 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 17:05:38,678 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 17:05:38,681 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 17:05:39,732 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:39,741 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:41,746 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:05:41,749 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 17:05:41,752 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 17:05:46,063 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 17:05:46,066 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 17:05:46,069 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 17:05:47,125 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:47,133 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:49,144 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 17:05:49,154 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 17:05:49,159 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 17:05:50,495 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 17:05:50,543 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 17:05:51,587 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:51,595 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:53,599 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 17:05:53,604 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 17:05:53,607 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 17:05:53,731 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 17:05:53,790 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 17:05:54,835 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:05:54,843 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:05:56,855 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:05:56,865 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 17:05:56,874 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 17:06:03,382 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:06:03,391 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 17:06:03,400 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 17:06:09,497 - find_auto_element - ERROR - Object with given value Basic information not found
+2017-09-04 17:06:09,499 - verifyTextOnScreen - ERROR - Text Not found : Basic information
+2017-09-04 17:06:09,502 - enterText - INFO - Entering text AUTO1212 for * Customer name
+2017-09-04 17:06:10,557 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:06:10,565 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:06:12,571 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 17:06:12,576 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: * Customer name
+2017-09-04 17:06:12,581 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: * Customer name
+2017-09-04 17:06:12,811 - find_auto_element - DEBUG - During search we found the object with attribute text: * Customer name
+2017-09-04 17:06:13,004 - enterText - INFO - Entering text autotest for * Customer description
+2017-09-04 17:06:14,050 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:06:14,059 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:06:16,069 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 17:06:16,078 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: * Customer description
+2017-09-04 17:06:16,087 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: * Customer description
+2017-09-04 17:06:16,268 - find_auto_element - DEBUG - During search we found the object with attribute text: * Customer description
+2017-09-04 17:06:16,474 - selectDropDownOption - INFO - Selecting dropdown menu: ICCID and option * Primary SIM identifier
+2017-09-04 17:06:17,518 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:06:17,526 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:06:19,537 - getObjByAlgo - DEBUG - Getting locator and locator value for dropdown
+2017-09-04 17:06:19,548 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: ICCID
+2017-09-04 17:06:19,556 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: ICCID
+2017-09-04 17:07:17,618 - find_auto_element - ERROR - Object with given value ICCID not found
+2017-09-04 17:07:17,621 - selectDropDownOption - ERROR - Drop down not found
+2017-09-04 17:07:17,624 - selectDropDownOption - INFO - Selecting dropdown menu: ICCID and option * Display name source
+2017-09-04 17:07:18,709 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:07:18,717 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:07:20,728 - getObjByAlgo - DEBUG - Getting locator and locator value for dropdown
+2017-09-04 17:07:20,737 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: ICCID
+2017-09-04 17:07:20,745 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: ICCID
+2017-09-04 17:08:19,290 - find_auto_element - ERROR - Object with given value ICCID not found
+2017-09-04 17:08:19,295 - selectDropDownOption - ERROR - Drop down not found
+2017-09-04 17:09:43,323 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-04 17:09:44,584 - login - WARNING - Login not complete
+2017-09-04 17:09:47,221 - login - INFO - Logged in with user: Home screen is visible
+2017-09-04 17:09:48,231 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-04 17:09:49,313 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:09:49,322 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:09:51,328 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 17:09:51,341 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 17:09:51,347 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-04 17:09:51,353 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-04 17:09:51,886 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-04 17:09:51,938 - clickOnMenu - INFO - Clicking on menu: Customers
+2017-09-04 17:09:52,982 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:09:52,986 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:09:54,990 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-04 17:09:54,998 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-04 17:09:55,002 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-04 17:09:55,006 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-04 17:09:55,316 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-04 17:09:55,378 - verifyTextOnScreen - INFO - Verifying if text: Organisations is present on page
+2017-09-04 17:09:56,409 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:09:56,413 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:09:58,424 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:09:58,434 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 17:09:58,444 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 17:10:04,622 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:10:04,632 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Organisations
+2017-09-04 17:10:04,641 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Organisations
+2017-09-04 17:10:07,706 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisations
+2017-09-04 17:10:07,708 - verifyTextOnScreen - INFO - Static Text Found : Organisations
+2017-09-04 17:10:07,711 - verifyTextOnScreen - INFO - Verifying if text: matching is present on page
+2017-09-04 17:10:08,758 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:08,761 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:10,772 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:10:10,782 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching
+2017-09-04 17:10:10,791 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching
+2017-09-04 17:10:14,967 - find_auto_element - ERROR - Object with given value matching not found
+2017-09-04 17:10:14,970 - verifyTextOnScreen - ERROR - Text Not found : matching
+2017-09-04 17:10:14,973 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-04 17:10:16,013 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:16,022 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:18,033 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-04 17:10:18,043 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-04 17:10:18,052 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-04 17:10:19,399 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-04 17:10:19,449 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-04 17:10:20,509 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:20,518 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:22,529 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-04 17:10:22,539 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Create customer
+2017-09-04 17:10:22,548 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Create customer
+2017-09-04 17:10:22,734 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer
+2017-09-04 17:10:22,799 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-04 17:10:23,845 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:23,853 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:25,858 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:10:25,862 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 17:10:25,865 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 17:10:36,278 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-04 17:10:36,285 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-04 17:10:36,289 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-04 17:10:41,550 - find_auto_element - ERROR - Object with given value Basic information not found
+2017-09-04 17:10:41,554 - verifyTextOnScreen - ERROR - Text Not found : Basic information
+2017-09-04 17:10:41,557 - enterText - INFO - Entering text AUTO1212 for * Customer name
+2017-09-04 17:10:42,610 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:42,619 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:44,630 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 17:10:44,639 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: * Customer name
+2017-09-04 17:10:44,648 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: * Customer name
+2017-09-04 17:10:44,878 - find_auto_element - DEBUG - During search we found the object with attribute text: * Customer name
+2017-09-04 17:10:45,071 - enterText - INFO - Entering text autotest for * Customer description
+2017-09-04 17:10:46,113 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:46,122 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:48,133 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-04 17:10:48,143 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: * Customer description
+2017-09-04 17:10:48,152 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: * Customer description
+2017-09-04 17:10:48,337 - find_auto_element - DEBUG - During search we found the object with attribute text: * Customer description
+2017-09-04 17:10:48,531 - selectDropDownOption - INFO - Selecting dropdown : * Primary SIM identifier and option ICCID
+2017-09-04 17:10:49,566 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:10:49,575 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:10:51,586 - getObjByAlgo - DEBUG - Getting locator and locator value for dropdown
+2017-09-04 17:10:51,596 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: * Primary SIM identifier
+2017-09-04 17:10:51,604 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: * Primary SIM identifier
+2017-09-04 17:11:49,035 - find_auto_element - ERROR - Object with given value * Primary SIM identifier not found
+2017-09-04 17:11:49,039 - selectDropDownOption - ERROR - Drop down not found
+2017-09-04 17:11:49,043 - selectDropDownOption - INFO - Selecting dropdown : * Display name source and option ICCID
+2017-09-04 17:11:50,123 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-04 17:11:50,131 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-04 17:11:52,143 - getObjByAlgo - DEBUG - Getting locator and locator value for dropdown
+2017-09-04 17:11:52,153 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: * Display name source
+2017-09-04 17:11:52,163 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: * Display name source
