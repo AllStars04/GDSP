@@ -31,7 +31,7 @@
   },
   "dropdown": {
     "locator": "tag_name",
-    "locatorvalue": "li"
+    "locatorvalue": "label"
   },
   "link": {
     "locator": "tag_name",
@@ -43,11 +43,11 @@
   },
   "textarea": {
     "locator": "tag_name",
-    "locatorvalue": "textarea"
+    "locatorvalue": "label"
   },
   "radiobutton":{
-    "locator": "class_name",
-    "locatorvalue":"bc_checkradio_item"
+    "locator": "tag_name",
+    "locatorvalue":"label"
   },
   "statictext":{
     "locator": "tag_name",
@@ -60,5 +60,13 @@
   "list":{
     "locator": "tag_name",
     "locatorvalue":"li"
+  },
+   "date":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
+  },
+  "checkbox":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
   }
 }

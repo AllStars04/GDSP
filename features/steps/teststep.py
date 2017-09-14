@@ -84,3 +84,7 @@ def compareTwoValues(self,value1,value2,operation):
 @then('select drop down "{dropDownName}" with option "{optionValue}"')
 def selectDropDown(self,dropDownName,optionValue):
     driver.selectDropDownOption(dropDownName,optionValue)
+
+@then('get all cols')
+def getallcols(self):
+    driver.getValueFromTable()

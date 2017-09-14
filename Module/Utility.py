@@ -2,6 +2,7 @@ import sys
 import json
 import os
 import openpyxl
+import errno
 
 
 def ReadDataFromJsonFile(type,value):
@@ -9,8 +10,17 @@ def ReadDataFromJsonFile(type,value):
     ## Read Json file from Config directory
     cwd = os.getcwd()
     pcwd = "\\".join(cwd.split('\\')[:-1])
-    #confdir = pcwd + "\\Config"
     confdir = cwd + "\\Config"
+    try:
+        dirExists = os.path.exists(confdir)
+        if not dirExists:
+            confdir = pcwd + "\\Config"
+    except OSError as exception:
+            if exception.errno != errno.EEXIST:
+                raise
+
+    #confdir = pcwd + "\\Config"
+    #confdir = pcwd + "\\Config"
     json_data = open(confdir+"\\AutomationToolConfig.json")
     data = json.load(json_data)
    # print(data)
@@ -32,6 +42,13 @@ def ReadDataFromRepo(type, name, value):
         cwd = os.getcwd()
         pcwd = "\\".join(cwd.split('\\')[:-1])
         confdir = cwd + "\\Config"
+        try:
+            dirExists = os.path.exists(confdir)
+            if not dirExists:
+                confdir = pcwd + "\\Config"
+        except OSError as exception:
+            if exception.errno != errno.EEXIST:
+                raise
         repo_file = open(confdir+"\\Repository.json")
         repo_data = json.load(repo_file)
         try:
@@ -43,6 +60,13 @@ def fnReadDataFromExcel(strExcelName,strSheetName,strUniqueColNames, strUniqueCo
         cwd = os.getcwd()
         pcwd = "\\".join(cwd.split('\\')[:-1])
         confdir = cwd + "\\Config"
+        try:
+            dirExists = os.path.exists(confdir)
+            if not dirExists:
+                confdir = pcwd + "\\Config"
+        except OSError as exception:
+            if exception.errno != errno.EEXIST:
+                raise
         wb = openpyxl.load_workbook(confdir+"\\" + strExcelName)
         sheet = wb.get_sheet_by_name(strSheetName)
         maxrows = sheet.max_row

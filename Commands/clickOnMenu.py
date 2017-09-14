@@ -3,27 +3,34 @@ import Module.Algorithms
 import Module.Utility
 import Module.logger
 import Module.getObject
+import Module.CleanUp
+import Class.UserDefinedException
 
 def clickOnMenu(driverObject,menuName):
-
+    Excep = Class.UserDefinedException.UserDefinedException()
     success = 0
     if menuName == None:
         Module.logger.ERROR("Menu name not provided")
-
     obj = Module.getObject.getObjByRepo(driverObject,"menu",menuName)
     if obj != None:
         try:
             obj.click()
+            Module.logger.INFO("Menu" + menuName + " is clicked")
             success = 1
         except:
             Module.logger.ERROR("Menu "+menuName+ "is not clickable")
+    else:
+        Module.logger.INFO("Object " + menuName + " is not found in Repository")
 
     if success == 0:
         obj = Module.getObject.getObjByAlgo(driverObject,"menu",menuName)
         if obj != None:
             try:
                 obj.click()
+                Module.logger.INFO("Menu" + menuName + " is clicked")
             except:
-                Module.logger.ERROR("Menu " + menuName + "is not clickable")
+                # Clean up before raising exception
+                Module.CleanUp.killAllProcess()
+                Excep.raiseException("Menu " + menuName + "is not clickable")
         else:
             Module.logger.ERROR("No Object found for menu "+menuName)

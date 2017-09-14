@@ -2,6 +2,7 @@ import logging
 import inspect
 import os
 import Module.Utility
+import errno
 
 loglevel = Module.Utility.ReadDataFromJsonFile("tool","loglevel")
 logging.basicConfig(level=logging.INFO)
@@ -22,9 +23,16 @@ else:
 
 cwd = os.getcwd()
 pcwd = "\\".join(cwd.split('\\')[:-1])
-logdir = cwd +"\\logs"
-logfile = logdir+"\\automation.log"
+logdir = cwd + "\\logs"
+try:
+    dirExists = os.path.exists(logdir)
+    if not dirExists:
+        logdir = pcwd + "\\Config"
+except OSError as exception:
+    if exception.errno != errno.EEXIST:
+        raise
 
+logfile = logdir+"\\automation.log"
 
 handler = logging.FileHandler(logfile)
 handler.setLevel(loglevel)

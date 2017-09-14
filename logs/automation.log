@@ -1867,3 +1867,2180 @@
 2017-09-04 17:11:52,143 - getObjByAlgo - DEBUG - Getting locator and locator value for dropdown
 2017-09-04 17:11:52,153 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: * Display name source
 2017-09-04 17:11:52,163 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: * Display name source
+2017-09-06 09:52:52,973 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 09:52:54,127 - login - WARNING - Login not complete
+2017-09-06 09:53:00,332 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 09:53:01,339 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 09:53:02,436 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:53:02,452 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:53:04,465 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 09:53:04,512 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 09:53:04,528 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 09:53:04,543 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 09:53:04,762 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-06 09:53:04,803 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 09:53:05,853 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:53:05,868 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:53:07,872 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 09:53:07,888 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 09:53:07,903 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 09:53:07,903 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 09:53:08,028 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-06 09:53:08,084 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 09:53:09,129 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:53:09,145 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:53:11,172 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 09:53:11,172 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 09:53:11,193 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 09:53:11,767 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-05, 18:11:36
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 09:53:11,777 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 09:53:11,781 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 09:53:11,826 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 09:53:14,862 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:53:14,877 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:53:16,891 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 09:53:16,907 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 09:53:16,907 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 09:53:17,710 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-05, 18:11:36
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results 149194 matching result(s).
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile
+111110001000000
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000001
+Active.Live
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_DE
+No eCall support
+111110001000002
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000003
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000004
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000005
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000006
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000007
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000008
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000009
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000010
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000011
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000012
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000013
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000014
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000015
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000016
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000017
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000018
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000019
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 09:53:17,710 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 09:53:17,710 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-06 09:53:18,726 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:53:18,742 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:54:37,332 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 09:54:38,449 - login - WARNING - Login not complete
+2017-09-06 09:54:42,235 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 09:54:43,239 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 09:54:44,301 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:54:44,317 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:54:46,320 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 09:54:46,336 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 09:54:46,351 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 09:54:46,351 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 09:54:46,544 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-06 09:54:46,599 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 09:54:47,644 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:54:47,659 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:54:49,672 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 09:54:49,687 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 09:54:49,703 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 09:54:49,703 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 09:54:49,812 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-06 09:54:49,875 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 09:54:50,923 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:54:50,923 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:54:52,948 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 09:54:52,958 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 09:54:52,966 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 09:54:53,541 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-06, 09:52:53
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 09:54:53,547 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 09:54:53,551 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 09:54:53,606 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 09:54:56,655 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:54:56,670 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:54:58,677 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 09:54:58,693 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 09:54:58,693 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 09:54:59,203 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-06, 09:52:53
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results 149194 matching result(s).
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile
+111110001000000
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000001
+Active.Live
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_DE
+No eCall support
+111110001000002
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000003
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000004
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000005
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000006
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000007
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000008
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000009
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000010
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000011
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000012
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000013
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000014
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000015
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000016
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000017
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000018
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000019
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 09:54:59,219 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 09:54:59,219 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-06 09:55:00,257 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:55:00,257 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:55:02,297 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-06 09:55:02,297 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-06 09:55:02,313 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-06 09:55:02,554 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-06 09:55:02,940 - clickOnList - INFO - selecting option: PPTOMTOM
+2017-09-06 09:55:02,979 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 09:55:06,025 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:55:06,041 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:55:08,064 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-06 09:55:08,064 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: PPTOMTOM
+2017-09-06 09:55:08,080 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: PPTOMTOM
+2017-09-06 09:55:10,243 - find_auto_element - DEBUG - During search we found the object with attribute text: PPTOMTOM
+2017-09-06 09:55:10,390 - selectFromList - INFO - selecting option: aricent_55
+2017-09-06 09:55:11,450 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 09:55:11,465 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 09:55:13,488 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-06 09:55:13,488 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: aricent_55
+2017-09-06 09:55:13,488 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: aricent_55
+2017-09-06 09:55:15,120 - find_auto_element - DEBUG - During search we found the object with attribute text: aricent_55
+2017-09-06 10:00:37,133 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 10:00:38,327 - login - WARNING - Login not complete
+2017-09-06 10:00:40,354 - login - WARNING - Login not complete
+2017-09-06 10:00:42,378 - login - WARNING - Login not complete
+2017-09-06 10:00:44,394 - login - WARNING - Login not complete
+2017-09-06 10:00:46,418 - login - WARNING - Login not complete
+2017-09-06 10:00:48,447 - login - WARNING - Login not complete
+2017-09-06 10:00:50,479 - login - WARNING - Login not complete
+2017-09-06 10:00:52,497 - login - WARNING - Login not complete
+2017-09-06 10:00:54,527 - login - WARNING - Login not complete
+2017-09-06 10:00:56,554 - login - WARNING - Login not complete
+2017-09-06 10:00:58,580 - login - WARNING - Login not complete
+2017-09-06 10:01:00,636 - login - WARNING - Login not complete
+2017-09-06 10:01:02,660 - login - WARNING - Login not complete
+2017-09-06 10:01:04,683 - login - WARNING - Login not complete
+2017-09-06 10:01:06,712 - login - WARNING - Login not complete
+2017-09-06 10:01:39,236 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 10:01:40,391 - login - WARNING - Login not complete
+2017-09-06 10:01:42,943 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 10:01:43,947 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 10:01:43,990 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 10:01:46,929 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:01:48,934 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 10:01:48,949 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 10:01:48,970 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 10:01:48,976 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 10:01:49,153 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-06 10:01:49,202 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 10:01:50,242 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 10:01:50,242 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:01:52,252 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 10:01:52,267 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 10:01:52,267 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 10:01:52,267 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 10:01:52,377 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-06 10:01:52,492 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 10:01:53,530 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 10:01:53,533 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:01:55,548 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 10:01:55,548 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 10:01:55,548 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 10:01:57,086 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Lavanya P
+Last login: 2017-09-06, 10:01:17
+Platform as Platform Support
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Please use the search options on the left to search for devices
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 10:01:57,086 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 10:01:57,086 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 10:01:58,137 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 10:01:58,153 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:02:00,167 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 10:02:00,182 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 10:02:00,182 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 10:02:00,656 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Lavanya P
+Last login: 2017-09-06, 10:01:17
+Platform as Platform Support
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Please use the search options on the left to search for devices
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 10:02:00,672 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 10:02:00,672 - clickOnInput - INFO - Clicking on menu: Organisation
+2017-09-06 10:02:01,724 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 10:02:01,740 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:02:03,747 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-06 10:02:03,747 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Organisation
+2017-09-06 10:02:03,747 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Organisation
+2017-09-06 10:02:03,934 - find_auto_element - DEBUG - During search we found the object with attribute text: Organisation
+2017-09-06 10:02:04,780 - clickOnList - INFO - selecting option: 25263
+2017-09-06 10:02:04,822 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 10:02:07,879 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 10:02:07,894 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:02:09,908 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-06 10:02:09,923 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: 25263
+2017-09-06 10:02:09,923 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: 25263
+2017-09-06 10:03:19,834 - find_auto_element - DEBUG - During search we found the object with attribute text: 25263
+2017-09-06 10:03:19,986 - selectFromList - INFO - selecting option: ITALL
+2017-09-06 10:03:21,065 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 10:03:21,081 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 10:03:23,082 - getObjByAlgo - DEBUG - Getting locator and locator value for list
+2017-09-06 10:03:23,098 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: li, value: ITALL
+2017-09-06 10:03:23,098 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: li and value: ITALL
+2017-09-06 10:04:30,292 - find_auto_element - DEBUG - During search we found the object with attribute text: ITALL
+2017-09-06 18:35:25,216 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:35:26,400 - login - WARNING - Login not complete
+2017-09-06 18:35:29,265 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:35:30,268 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:35:30,315 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:35:33,146 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:35:36,188 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:35:36,203 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:35:38,206 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:35:38,243 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:35:38,243 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:35:38,259 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:35:38,443 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-06 18:35:38,499 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:35:39,560 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:35:39,576 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:35:41,581 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:35:41,596 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:35:41,612 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:35:41,612 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:35:41,796 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-06 18:35:41,912 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:35:42,967 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:35:42,982 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:35:45,004 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:35:45,013 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:35:45,023 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:35:46,560 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Lavanya P
+Last login: 2017-09-06, 17:30:52
+Platform as Platform Support
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Please use the search options on the left to search for devices
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 18:35:46,565 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:35:46,569 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:35:47,620 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:35:47,635 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:35:49,642 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:35:49,658 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:35:49,658 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:35:50,163 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Lavanya P
+Last login: 2017-09-06, 17:30:52
+Platform as Platform Support
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Please use the search options on the left to search for devices
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 18:35:50,169 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:36:55,851 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:36:57,029 - login - WARNING - Login not complete
+2017-09-06 18:37:03,064 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:37:04,075 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:37:04,159 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:37:07,216 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:37:07,232 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:37:09,235 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:37:09,251 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:37:09,267 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:37:09,282 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:37:09,467 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-06 18:37:09,523 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:37:10,574 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:37:10,589 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:37:12,608 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:37:12,625 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:37:12,625 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:37:12,641 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:37:12,808 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-06 18:37:12,875 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:37:13,916 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:37:13,916 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:37:15,920 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:37:15,923 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:37:15,927 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:37:16,601 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-06, 17:44:48
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 18:37:16,608 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:37:16,611 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:37:16,668 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:37:19,717 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:37:19,717 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:37:21,723 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:37:21,723 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:37:21,723 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:37:22,295 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-06, 17:44:48
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results 149194 matching result(s).
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile
+111110001000000
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000001
+Active.Live
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_DE
+No eCall support
+111110001000002
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000003
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000004
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000005
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000006
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000007
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000008
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000009
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000010
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000011
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000012
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000013
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000014
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000015
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000016
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000017
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000018
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+111110001000019
+Active.Ready
+IITC_FORD
+PPVGE
+IITC_FORD_CSP_UK
+No eCall support
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P20]   |  Privacy policy
+2017-09-06 18:37:22,302 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:40:19,264 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:40:20,483 - login - WARNING - Login not complete
+2017-09-06 18:40:24,779 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:40:25,783 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:40:25,829 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:40:28,879 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:40:28,895 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:40:30,899 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:40:30,921 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:40:30,937 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:40:30,937 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:40:31,197 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:40:32,262 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:40:32,277 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:40:34,287 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:40:34,287 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:40:34,287 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:40:34,303 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:40:34,473 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:40:35,541 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:40:35,557 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:40:37,566 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:40:37,574 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:40:37,582 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:40:38,026 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:40:38,031 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:40:38,073 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:40:41,108 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:40:41,108 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:40:43,110 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:40:43,110 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:40:43,110 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:40:43,441 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:41:46,284 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:41:47,409 - login - WARNING - Login not complete
+2017-09-06 18:41:50,506 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:41:51,509 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:41:52,585 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:41:52,585 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:41:54,587 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:41:54,587 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:41:54,602 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:41:54,602 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:41:54,838 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:41:55,906 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:41:55,908 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:41:57,910 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:41:57,910 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:41:57,910 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:41:57,926 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:41:58,092 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:41:59,128 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:41:59,131 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:42:01,137 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:42:01,143 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:42:01,149 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:42:01,594 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:42:01,599 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:42:01,648 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:42:04,695 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:42:04,711 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:42:06,719 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:42:06,719 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:42:06,719 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:42:07,087 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:42:07,092 - getValueFromTable - INFO - In Table: 
+2017-09-06 18:51:48,599 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:51:49,854 - login - WARNING - Login not complete
+2017-09-06 18:51:55,412 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:51:56,420 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:51:56,483 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:51:59,554 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:51:59,569 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:52:01,572 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:52:01,588 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:52:01,603 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:52:01,619 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:52:01,911 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:52:02,966 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:52:02,982 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:52:04,997 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:52:05,012 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:52:05,028 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:52:05,028 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:52:05,330 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:52:06,396 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:52:06,411 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:52:08,419 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:52:08,424 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:52:08,430 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:52:08,916 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:52:08,921 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:52:08,958 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:52:11,987 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:52:12,002 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:52:14,013 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:52:14,013 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:52:14,032 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:52:14,334 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:52:14,350 - getValueFromTable - INFO - In Table: 
+2017-09-06 18:53:33,725 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:53:34,866 - login - WARNING - Login not complete
+2017-09-06 18:53:39,072 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:53:40,083 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:53:41,193 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:53:41,209 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:53:43,212 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:53:43,227 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:53:43,243 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:53:43,243 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:53:43,494 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:53:44,539 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:53:44,554 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:53:46,563 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:53:46,589 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:53:46,589 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:53:46,605 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:53:46,812 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:53:47,852 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:53:47,867 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:53:49,872 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:53:49,875 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:53:49,886 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:53:50,320 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:53:50,325 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:53:50,375 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:53:53,420 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:53:53,436 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:53:55,439 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:53:55,455 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:53:55,455 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:53:55,782 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:53:55,786 - getValueFromTable - INFO - In Table: 
+2017-09-06 18:54:41,499 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:54:42,628 - login - WARNING - Login not complete
+2017-09-06 18:54:46,866 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:54:47,870 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:54:48,930 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:54:48,945 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:54:50,948 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:54:50,948 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:54:50,965 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:54:50,970 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:54:51,206 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:54:52,246 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:54:52,263 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:54:54,274 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:54:54,281 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:54:54,296 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:54:54,296 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:54:54,523 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:54:55,562 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:54:55,578 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:54:57,586 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:54:57,593 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:54:57,600 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:54:58,063 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:54:58,068 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:54:58,117 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:55:01,146 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:55:01,162 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:55:03,170 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:55:03,190 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:55:03,192 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:55:03,548 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:55:03,554 - getValueFromTable - INFO - In Table: 
+2017-09-06 18:55:42,066 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:55:43,262 - login - WARNING - Login not complete
+2017-09-06 18:55:47,563 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:55:48,574 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:55:49,669 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:55:49,684 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:55:51,686 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:55:51,686 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:55:51,702 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:55:51,702 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:55:51,967 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:55:53,025 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:55:53,025 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:55:55,043 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:55:55,058 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:55:55,074 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:55:55,074 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:55:55,337 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:55:56,375 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:55:56,391 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:55:58,393 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:55:58,409 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:55:58,409 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:55:58,662 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:55:58,678 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:55:59,721 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:55:59,729 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:56:01,741 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:56:01,751 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:56:01,756 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:56:02,183 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:56:02,189 - getValueFromTable - INFO - In Table: 
+2017-09-06 18:58:21,567 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 18:58:22,817 - login - WARNING - Login not complete
+2017-09-06 18:58:26,782 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 18:58:27,786 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 18:58:28,846 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:58:28,863 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:58:30,869 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:58:30,893 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:58:30,896 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 18:58:30,911 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 18:58:31,169 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 18:58:32,202 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:58:32,217 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:58:34,227 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 18:58:34,243 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 18:58:34,258 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 18:58:34,258 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 18:58:34,491 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 18:58:35,537 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:58:35,537 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:58:37,548 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:58:37,556 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 18:58:37,561 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 18:58:37,992 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 18:58:37,997 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 18:58:38,046 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 18:58:41,110 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 18:58:41,110 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 18:58:43,130 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 18:58:43,146 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 18:58:43,146 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 18:58:43,481 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 18:58:43,481 - getValueFromTable - INFO - In Table: 
+2017-09-06 19:03:54,625 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 19:03:56,128 - login - WARNING - Login not complete
+2017-09-06 19:04:00,399 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 19:04:01,403 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 19:04:01,455 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 19:04:04,517 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:04:04,517 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:04:06,536 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:04:06,551 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:04:06,567 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 19:04:06,583 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 19:04:06,823 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 19:04:07,883 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:04:07,899 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:04:09,899 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:04:09,899 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:04:09,915 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 19:04:09,919 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 19:04:10,166 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 19:04:11,238 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:04:11,254 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:04:13,259 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:04:13,262 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 19:04:13,265 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 19:04:13,705 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 19:04:13,709 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 19:04:13,752 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 19:04:16,785 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:04:16,801 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:04:18,802 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:04:18,821 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 19:04:18,831 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 19:04:19,163 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 19:04:19,163 - getValueFromTable - INFO - In Table: 
+2017-09-06 19:04:58,382 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 19:04:59,497 - login - WARNING - Login not complete
+2017-09-06 19:05:06,656 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 19:05:07,661 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 19:05:07,703 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 19:05:10,762 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:05:10,778 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:05:12,780 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:05:12,795 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:05:12,815 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 19:05:12,815 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 19:05:13,066 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 19:05:14,112 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:05:14,127 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:05:16,130 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:05:16,130 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:05:16,146 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 19:05:16,150 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 19:05:16,397 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 19:05:17,456 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:05:17,456 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:05:19,460 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:05:19,464 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 19:05:19,473 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 19:05:19,953 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 19:05:19,959 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 19:05:20,001 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 19:05:23,039 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:05:23,054 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:05:25,058 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:05:25,073 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 19:05:25,073 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 19:05:25,374 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 19:05:25,374 - getValueFromTable - INFO - In Table: 
+2017-09-06 19:05:25,565 - getValueFromTable - INFO - {'col_index': ''}
+2017-09-06 19:07:09,664 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 19:07:10,823 - login - WARNING - Login not complete
+2017-09-06 19:07:18,742 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 19:07:19,746 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 19:07:20,811 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:07:20,811 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:07:22,835 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:07:22,851 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:07:22,866 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 19:07:22,866 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 19:07:23,114 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 19:07:24,158 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:07:24,173 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:07:26,176 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:07:26,198 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:07:26,198 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 19:07:26,213 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 19:07:26,470 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 19:07:27,506 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:07:27,515 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:07:29,521 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:07:29,525 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 19:07:29,529 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 19:07:30,173 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 19:07:30,185 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 19:07:30,237 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 19:07:32,261 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-06 19:07:35,313 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:07:35,329 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:07:37,334 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:07:37,353 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 19:07:37,356 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 19:07:37,672 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 19:07:37,672 - getValueFromTable - INFO - In Table: 
+2017-09-06 19:07:37,835 - getValueFromTable - INFO - {'key': ''}
+2017-09-06 19:10:39,726 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-06 19:10:40,892 - login - WARNING - Login not complete
+2017-09-06 19:10:44,854 - login - INFO - Logged in with user: Home screen is visible
+2017-09-06 19:10:45,859 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-06 19:10:46,931 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:10:46,947 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:10:48,950 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:10:48,965 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:10:48,981 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-06 19:10:48,981 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-06 19:10:49,237 - clickOnMenu - INFO - Clicking on menu: All devices
+2017-09-06 19:10:50,297 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:10:50,313 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:10:52,327 - gotodefaultframe - DEBUG - Switching to default content
+2017-09-06 19:10:52,342 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-06 19:10:52,342 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-06 19:10:52,358 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-06 19:10:52,605 - verifyTextOnScreen - INFO - Verifying if text: Devices is present on page
+2017-09-06 19:10:53,668 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:10:53,668 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:10:55,679 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:10:55,694 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Devices
+2017-09-06 19:10:55,694 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Devices
+2017-09-06 19:10:55,911 - verifyTextOnScreen - INFO - Static Text Found : Devices
+2017-09-06 19:10:55,911 - verifyTextOnScreen - INFO - Verifying if text: Search is present on page
+2017-09-06 19:10:56,965 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-06 19:10:56,980 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-06 19:10:58,988 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:10:59,003 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 19:10:59,003 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 19:11:10,213 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-06 19:11:10,229 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Search
+2017-09-06 19:11:10,229 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Search
+2017-09-06 19:11:10,811 - verifyTextOnScreen - INFO - Static Text Found : Search
+2017-09-06 19:11:10,817 - getValueFromTable - INFO - In Table: 
+2017-09-06 19:11:10,981 - getValueFromTable - INFO - {1: '', 2: 'IMSI', 3: 'State', 4: 'Organisation', 5: 'Parent Organisation', 6: 'Service Profile', 7: ''}
+2017-09-11 12:01:34,746 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 12:01:36,197 - login - WARNING - Login not complete
+2017-09-11 12:01:38,224 - login - WARNING - Login not complete
+2017-09-11 12:01:40,242 - login - WARNING - Login not complete
+2017-09-11 12:01:42,272 - login - WARNING - Login not complete
+2017-09-11 12:01:44,281 - login - WARNING - Login not complete
+2017-09-11 12:01:46,283 - login - WARNING - Login not complete
+2017-09-11 13:44:45,605 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 13:44:47,854 - login - WARNING - Login not complete
+2017-09-11 13:44:49,877 - login - WARNING - Login not complete
+2017-09-11 13:44:51,906 - login - WARNING - Login not complete
+2017-09-11 13:44:53,942 - login - WARNING - Login not complete
+2017-09-11 13:44:55,968 - login - WARNING - Login not complete
+2017-09-11 13:44:57,985 - login - WARNING - Login not complete
+2017-09-11 13:45:00,000 - login - WARNING - Login not complete
+2017-09-11 13:45:02,001 - login - WARNING - Login not complete
+2017-09-11 13:45:04,861 - login - WARNING - Login not complete
+2017-09-11 17:36:52,330 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 17:36:53,722 - login - WARNING - Login not complete
+2017-09-11 17:36:55,747 - login - WARNING - Login not complete
+2017-09-11 17:36:57,772 - login - WARNING - Login not complete
+2017-09-11 17:36:59,797 - login - WARNING - Login not complete
+2017-09-11 17:37:01,823 - login - WARNING - Login not complete
+2017-09-11 17:37:03,849 - login - WARNING - Login not complete
+2017-09-11 17:37:05,873 - login - WARNING - Login not complete
+2017-09-11 17:37:07,898 - login - WARNING - Login not complete
+2017-09-11 17:38:18,619 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 17:38:20,028 - clickOnLink - INFO - Clicking on link: PPVGE as Operator Administrator
+2017-09-11 17:38:21,091 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:21,100 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:23,155 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-11 17:38:23,164 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: PPVGE as Operator Administrator
+2017-09-11 17:38:23,180 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: PPVGE as Operator Administrator
+2017-09-11 17:38:23,323 - find_auto_element - ERROR - Object with given value PPVGE as Operator Administrator not found
+2017-09-11 17:38:23,326 - clickOnLink - ERROR - No Object found for link PPVGE as Operator Administrator
+2017-09-11 17:38:23,330 - clickOnLink - INFO - Clicking on link: Platform as Platform Support & IITC
+2017-09-11 17:38:24,372 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:24,381 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:26,391 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-11 17:38:26,401 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Platform as Platform Support & IITC
+2017-09-11 17:38:26,410 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Platform as Platform Support & IITC
+2017-09-11 17:38:26,485 - find_auto_element - ERROR - Object with given value Platform as Platform Support & IITC not found
+2017-09-11 17:38:26,489 - clickOnLink - ERROR - No Object found for link Platform as Platform Support & IITC
+2017-09-11 17:38:26,493 - clickOnLink - INFO - Clicking on link: Administration
+2017-09-11 17:38:27,536 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:27,545 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:29,555 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-11 17:38:29,565 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-11 17:38:29,574 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-11 17:38:29,659 - find_auto_element - ERROR - Object with given value Administration not found
+2017-09-11 17:38:29,662 - clickOnLink - ERROR - No Object found for link Administration
+2017-09-11 17:38:29,665 - clickOnLink - INFO - Clicking on link: GHLR templates
+2017-09-11 17:38:30,704 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:30,713 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:32,724 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-11 17:38:32,734 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: GHLR templates
+2017-09-11 17:38:32,741 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: GHLR templates
+2017-09-11 17:38:32,825 - find_auto_element - ERROR - Object with given value GHLR templates not found
+2017-09-11 17:38:32,829 - clickOnLink - ERROR - No Object found for link GHLR templates
+2017-09-11 17:38:32,834 - verifyTextOnScreen - INFO - Verifying if text: GHLR templates is present on page
+2017-09-11 17:38:33,879 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:33,888 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:35,925 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-11 17:38:35,935 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: GHLR templates
+2017-09-11 17:38:35,944 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: GHLR templates
+2017-09-11 17:38:36,762 - find_auto_element - ERROR - Object with given value GHLR templates not found
+2017-09-11 17:38:36,765 - verifyTextOnScreen - ERROR - Text Not found : GHLR templates
+2017-09-11 17:38:36,768 - clickOnLink - INFO - Clicking on link: Clear fields
+2017-09-11 17:38:37,800 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:37,809 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:39,815 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-11 17:38:39,819 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Clear fields
+2017-09-11 17:38:39,823 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Clear fields
+2017-09-11 17:38:39,899 - find_auto_element - ERROR - Object with given value Clear fields not found
+2017-09-11 17:38:39,903 - clickOnLink - ERROR - No Object found for link Clear fields
+2017-09-11 17:38:39,911 - clickOnButton - INFO - Clicking on button: Search
+2017-09-11 17:38:40,955 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:40,963 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:42,996 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-11 17:38:43,006 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Search
+2017-09-11 17:38:43,018 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Search
+2017-09-11 17:38:43,062 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-11 17:38:43,066 - clickOnButton - ERROR - No Object found for button Search
+2017-09-11 17:38:43,071 - verifyTextOnScreen - INFO - Verifying if text: matching result is present on page
+2017-09-11 17:38:44,105 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:44,110 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:46,114 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-11 17:38:46,117 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: matching result
+2017-09-11 17:38:46,122 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: matching result
+2017-09-11 17:38:46,487 - find_auto_element - ERROR - Object with given value matching result not found
+2017-09-11 17:38:46,489 - verifyTextOnScreen - ERROR - Text Not found : matching result
+2017-09-11 17:38:46,492 - info - INFO - SUCCESS: GHLR Template results are displayed
+2017-09-11 17:38:46,498 - enterText - INFO - Entering text +**+ for GHLRtemp
+2017-09-11 17:38:47,535 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:47,544 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:49,586 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-11 17:38:49,604 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: GHLRtemp
+2017-09-11 17:38:49,608 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: GHLRtemp
+2017-09-11 17:38:49,630 - find_auto_element - ERROR - Object with given value GHLRtemp not found
+2017-09-11 17:38:49,633 - enterText - ERROR - No object found for text GHLRtemp
+2017-09-11 17:38:49,636 - clickOnButton - INFO - Clicking on button: Search
+2017-09-11 17:38:50,671 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:50,684 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:52,696 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-11 17:38:52,706 - getObjByAlgo - INFO - LOCATOR: class_name, locatorvalue: button, value: Search
+2017-09-11 17:38:52,716 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: class_nameLOCATOR VALUE: button and value: Search
+2017-09-11 17:38:52,744 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-11 17:38:52,754 - clickOnButton - ERROR - No Object found for button Search
+2017-09-11 17:38:52,763 - verifyTextOnScreen - INFO - Verifying if text: Please enter only alphabetical characters, numbers and/or _- is present on page
+2017-09-11 17:38:53,816 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:53,823 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:38:55,838 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-11 17:38:55,845 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Please enter only alphabetical characters, numbers and/or _-
+2017-09-11 17:38:55,851 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Please enter only alphabetical characters, numbers and/or _-
+2017-09-11 17:38:56,199 - find_auto_element - ERROR - Object with given value Please enter only alphabetical characters, numbers and/or _- not found
+2017-09-11 17:38:56,201 - verifyTextOnScreen - ERROR - Text Not found : Please enter only alphabetical characters, numbers and/or _-
+2017-09-11 17:38:56,204 - info - INFO - SUCCESS: Not possible to search for GHLR Template with invalid values 
+2017-09-11 17:38:56,285 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 17:38:57,434 - clickOnLink - INFO - Clicking on link: Administration
+2017-09-11 17:38:58,504 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-11 17:38:58,512 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-11 17:39:27,265 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 17:41:50,825 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 17:43:12,386 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 18:26:54,445 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 18:27:52,686 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 18:33:04,915 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-11 18:34:10,591 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-13 09:42:08,988 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-13 09:47:38,894 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/

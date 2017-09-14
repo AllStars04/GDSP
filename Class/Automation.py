@@ -12,6 +12,12 @@ import Commands.clickOnLink
 import Commands.clickOnImage
 import Commands.selectRadioButton
 import Commands.verifyTableColumnHeaders
+import Commands.clickOnInput
+import Commands.clickOnList
+import Commands.selectFromList
+import Commands.enterDate
+import Commands.enterTextArea
+import Commands.selectCheckBox
 import time
 
 
@@ -95,12 +101,13 @@ class Automation:
         self.performPreChecks()
         Commands.selectRadioButton.selectRadioButton(self.driver, radbtnName)
 
-    def clickOnInput(self,inputName):
+    def clickOnInput(self,inputName,inputValue):
         Module.logger.INFO("Clicking on menu: "+inputName)
         #Module.Reports.allure_test()
         self.inputName = inputName
+        self.inputValue = inputValue
         self.performPreChecks()
-        Commands.clickOnInput.clickOnInput(self.driver,inputName)
+        Commands.clickOnInput.clickOnInput(self.driver,inputName,inputValue)
 
     def selectFromList(self,optionName):
         Module.logger.INFO("selecting option: "+optionName)
@@ -115,6 +122,7 @@ class Automation:
         self.optionName = optionName
         self.performPreChecks()
         Commands.clickOnList.clickOnList(self.driver,optionName)
+
     def logout(self):
         self.driver.logout()
 
@@ -137,5 +145,20 @@ class Automation:
     def compareTwoValues(self, value1, value2, operation):
         self.driver.compareTwoValues(value1, value2, operation)
 
+    def enterDate(self,fieldName,fieldValue):
+        self.fieldName = fieldName
+        self.fieldValue = fieldValue
+        self.performPreChecks()
+        Commands.enterDate.enterDate(self.driver,fieldName,fieldValue)
 
+    def enterTextArea(self,fieldName,fieldValue):
+        self.fieldName = fieldName
+        self.fieldValue = fieldValue
+        self.performPreChecks()
+        Commands.enterTextArea.enterTextArea(self.driver,fieldName,fieldValue)
 
+    def selectCheckBox(self, chkBoxName):
+        Module.logger.INFO("Clicking on Check Box : " + chkBoxName)
+        self.chkBoxName = chkBoxName
+        self.performPreChecks()
+        Commands.selectCheckBox.selectCheckBox(self.driver, chkBoxName)

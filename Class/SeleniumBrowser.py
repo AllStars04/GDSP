@@ -10,6 +10,8 @@ import Module.Utility
 import datetime
 import time
 import Module.logger
+import Module.CleanUp
+import os
 import getpass
 
 
@@ -18,7 +20,7 @@ class SeleniumBrowser:
         self.browserType = Module.Utility.ReadDataFromJsonFile("tool", "browserType")
         self.timeout = Module.Utility.ReadDataFromJsonFile("tool", "timeout")
         options = webdriver.ChromeOptions()
-        options.add_argument("user-data-dir=C:/users/saurabh/AppData/Local/Google/Chrome/User Data/Default")
+        options.add_argument("user-data-dir=C:/users/"+getpass.getuser()+"/AppData/Local/Google/Chrome/User Data/Default")
         self.driver = webdriver.Chrome(chrome_options=options)
         self.get_input_type = Module.Utility.ReadDataFromJsonFile("tool", "configfile")
         self.dic = {}
@@ -47,13 +49,11 @@ class SeleniumBrowser:
            Env = Module.Utility.fnReadDataFromExcel("Login.xlsx", "URL", "ToBeExecuted", "Yes", "Type")
            strUserName = Module.Utility.fnReadDataFromExcel("Login.xlsx",Env, "TypeOfUser","Admin","UserName")
            strPassword = Module.Utility.fnReadDataFromExcel("Login.xlsx", Env, "TypeOfUser", "Admin","Password")
-           strVerifyCode = Module.Utility.fnReadDataFromExcel("Login.xlsx", Env, "TypeOfUser", "Admin","VerificationCode")
         self.driver.find_element_by_id("__ns2087359418_username").send_keys(strUserName)
         self.driver.find_element_by_id("__ns2087359418_password").send_keys(strPassword)
         self.driver.find_element_by_id("__ns2087359418_loginBtn").click()
         home = None
         local_timeout = 0
-
         while (home == None) and local_timeout < self.timeout / 2:
             try:
                 home = self.driver.find_element_by_id("__ns1790630358_homeLnk2")
@@ -124,14 +124,7 @@ class SeleniumBrowser:
     def logout(self):
         self.driver.find_element_by_id("__ns1790630358_logoutLnk").click()
         self.driver.close()
-        #self.killProcessFromTaskManager("chrome.exe")
-        #self.killProcessFromTaskManager("chromedriver.exe")
-
-    def killProcessFromTaskManager(self,processName):
-        for proc in psutil.process_iter():
-            # check whether the process name matches
-            if proc.name() == processName:
-                proc.kill()
+        Module.CleanUp.killAllProcess()
 
     def addValueToDic(self,valuetoStore,valueToAdd):
         self.dic.update({valuetoStore:valueToAdd})
