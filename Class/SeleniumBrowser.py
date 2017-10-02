@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import _multiprocessing
-import psutil
+#import _multiprocessing
+#import psutil
 
 from selenium.common.exceptions import TimeoutException
 import Module.Utility
@@ -20,7 +20,9 @@ class SeleniumBrowser:
         self.browserType = Module.Utility.ReadDataFromJsonFile("tool", "browserType")
         self.timeout = Module.Utility.ReadDataFromJsonFile("tool", "timeout")
         options = webdriver.ChromeOptions()
+        print("options are % s:" % options)
         options.add_argument("user-data-dir=C:/users/"+getpass.getuser()+"/AppData/Local/Google/Chrome/User Data/Default")
+        print("user is % s:" % getpass.getuser())
         self.driver = webdriver.Chrome(chrome_options=options)
         self.get_input_type = Module.Utility.ReadDataFromJsonFile("tool", "configfile")
         self.dic = {}

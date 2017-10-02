@@ -13,33 +13,29 @@ def clickOnInput(driverObject,inputName,inputValue):
     success = 0
     if inputName == None:
         Module.logger.ERROR("Input name not provided")
-    all_obj = Module.getObject.getObjByRepo(driverObject,"input",inputName)
-    if all_obj != None:
-     for obj in all_obj:
-        if inputName in obj.text:
-            try:
-                obj.click()
-                try:
-                    input_obj = obj.find_element_by_xpath("//input[contains(@id,'TreeOrganisationInput')]")
-                    input_obj.clear()
+    obj = Module.getObject.getObjByRepo(driverObject,"input",inputName)
+    if obj != None:
+       try:
+           obj.click()
+           try:
+               input_obj = obj.find_element_by_xpath("//input[contains(@id,'TreeOrganisationInput')]")
+               input_obj.clear()
+               if inputValue != "":
                     input_obj.send_keys(inputValue)
-                    time.sleep(10)
-                except:
-                    Module.logger.ERROR("Cannot enter value in the input field " + inputName)
-                try:
-                    actualObj = input_obj.find_elements_by_xpath("//li[contains(@class,'search-result')]")
-                    actualObj[0].click()
-                    Module.logger.INFO("INPUT " + inputName + " is selected")
-                    success = 1
-                    break
-                except:
-                    Module.logger.ERROR("Cannot select value from the list " + inputName)
-            except:
-                Module.logger.ERROR("Cannot click on input field " + inputName)
-        else:
-            Module.logger.ERROR("No object found for input "+inputName)
+               time.sleep(10)
+           except:
+               Module.logger.ERROR("Cannot enter value in the input field " + inputName)
+           try:
+               actualObj = input_obj.find_elements_by_xpath("//li[contains(@class,'search-result')]")
+               actualObj[0].click()
+               Module.logger.INFO("INPUT " + inputName + " is selected")
+               success = 1
+           except:
+                Module.logger.ERROR("Cannot select value from the list " + inputName)
+       except:
+           Module.logger.ERROR("Cannot click on input field " + inputName)
     else:
-         Module.logger.INFO("Object " +inputValue+" is not found in Repository")
+       Module.logger.INFO("Object " +inputValue+" is not found in Repository")
 
     if success == 0:
         obj = Module.getObject.getObjByAlgo(driverObject,"input",inputName)
@@ -49,7 +45,8 @@ def clickOnInput(driverObject,inputName,inputValue):
                 try:
                     input_obj = obj.find_element_by_xpath("//input[contains(@id,'TreeOrganisationInput')]")
                     input_obj.clear()
-                    input_obj.send_keys(inputValue)
+                    if inputValue != "":
+                        input_obj.send_keys(inputValue)
                     time.sleep(10)
                 except:
                     Module.CleanUp.killAllProcess()

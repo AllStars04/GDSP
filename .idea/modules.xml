@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/M2MAutomation.iml" filepath="$PROJECT_DIR$/.idea/M2MAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../28thSep/M2MAutomation/.idea/M2MAutomation.iml" filepath="$PROJECT_DIR$/../28thSep/M2MAutomation/.idea/M2MAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/M2MAutomationOld.iml" filepath="$PROJECT_DIR$/.idea/M2MAutomationOld.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Test/.idea/Test.iml" filepath="$USER_HOME$/PycharmProjects/Test/.idea/Test.iml" />
     </modules>
   </component>
 </project>

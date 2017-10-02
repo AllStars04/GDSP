@@ -1,4 +1,4 @@
-import psutil
+#import psutil
 import Module.logger
 
 def killProcessFromTaskManager(processName):

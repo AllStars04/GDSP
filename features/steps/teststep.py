@@ -26,7 +26,7 @@ def clickonmenu(self,submenuname):
 
 @then('click on input "{inputname}"')
 def clickonmenu(self,inputname):
-    driver.clickOnInput(inputname)
+    driver.clickOnInput(inputname, "")
 
 @then('select from list "{optionname}"')
 def clickonmenu(self,optionname):

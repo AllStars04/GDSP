@@ -9,7 +9,7 @@ import Class.UserDefinedException
 
 
 def clickOnButton(driverObject,buttonName):
-    Report = Class.Report.Report()
+    #Report = Class.Report.Report()
     Excep = Class.UserDefinedException.UserDefinedException()
     success = 0
     if buttonName == None:

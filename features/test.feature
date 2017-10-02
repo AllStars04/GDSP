@@ -14,8 +14,8 @@ Feature: test
     then click on input "Organisation"
     then click on list "PPTOMTOM"
     then select from list "aricent_55"
-   # then click on button "Search"
-    #when text "No results were found" is visible
+    then click on button "Search"
+    when text "No results were found" is visible
     ####Saurabh
 
   @createcustomer

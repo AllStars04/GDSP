@@ -6,7 +6,7 @@ Feature: GHRL Templates
         given start test case
         given open browser
         when login into portal
-        then click on link "PPVGE as Operator Administrator"
+        then click on link "Username as Operator Administrator"
         then click on link "Platform as Platform Support & IITC"
         #Goto GHLR Template
         then click on link "Administration"
